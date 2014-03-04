@@ -79,7 +79,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AWUserGuideViewer.Common\AWUserGuide.Common.csproj">
+    <ProjectReference Include="..\AWUserGuide.Common\AWUserGuide.Common.csproj">
       <Project>{c1f4693a-fea6-449d-b4bb-3caa897883b1}</Project>
       <Name>AWUserGuide.Common</Name>
     </ProjectReference>
