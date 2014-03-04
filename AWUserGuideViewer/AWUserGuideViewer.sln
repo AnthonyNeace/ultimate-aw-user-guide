@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWUserGuideViewer.Host", "AWUserGuideViewer\AWUserGuideViewer.Host.csproj", "{E4A27795-A252-4430-9FD3-A435F54DE155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWUserGuideViewer.Common", "AWUserGuideViewer.Common\AWUserGuideViewer.Common.csproj", "{C1F4693A-FEA6-449D-B4BB-3CAA897883B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A27795-A252-4430-9FD3-A435F54DE155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A27795-A252-4430-9FD3-A435F54DE155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A27795-A252-4430-9FD3-A435F54DE155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A27795-A252-4430-9FD3-A435F54DE155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F4693A-FEA6-449D-B4BB-3CAA897883B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F4693A-FEA6-449D-B4BB-3CAA897883B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F4693A-FEA6-449D-B4BB-3CAA897883B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F4693A-FEA6-449D-B4BB-3CAA897883B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
