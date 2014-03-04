@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWUserGuideViewer.Host", "AWUserGuideViewer\AWUserGuideViewer.Host.csproj", "{E4A27795-A252-4430-9FD3-A435F54DE155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWUserGuideViewer.Common", "AWUserGuideViewer.Common\AWUserGuideViewer.Common.csproj", "{C1F4693A-FEA6-449D-B4BB-3CAA897883B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWUserGuide.Common", "AWUserGuideViewer.Common\AWUserGuide.Common.csproj", "{C1F4693A-FEA6-449D-B4BB-3CAA897883B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

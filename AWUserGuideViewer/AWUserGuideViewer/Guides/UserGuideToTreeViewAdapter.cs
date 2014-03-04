@@ -54,6 +54,7 @@ namespace AWUserGuideViewer.Guides
             TreeNode parentNode = new TreeNode();
             TreeNode currentNode = new TreeNode();
             Stack<TreeNode> parentNodes = new Stack<TreeNode>();
+            int progress = 0;
 
             // Depth processing - delimiters are "topic" and "endtopic".
             // If topic is processed, increment the depth on subsequent lines.
