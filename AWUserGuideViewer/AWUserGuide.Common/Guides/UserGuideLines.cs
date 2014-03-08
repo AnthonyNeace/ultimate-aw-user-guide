@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace AWUserGuideViewer.Guides
@@ -19,6 +20,7 @@ namespace AWUserGuideViewer.Guides
         public bool? IsEnd { get; set; }
         public List<UserGuideLines> Children { get; set; }
         public int Depth { get; set; }
+        public string Link { get; set; }
 
         public UserGuideLines() {}
 
@@ -51,13 +53,14 @@ namespace AWUserGuideViewer.Guides
             RawString = line;
             FormattedString = line.Trim();
             // Formatted String
+            string newString = parseRawString(RawString);
             if (settings.LineNumbers)
             {
-                AWString = String.Format(@"{0} - {1}", count.ToString("D4"), RawString.Trim());
+                AWString = String.Format(@"{0} - {1}", count.ToString("D4"), newString);
             }
             else
             {
-                AWString = FormattedString;
+                AWString = newString;
             }
             LineNumber = count;
 
@@ -75,6 +78,36 @@ namespace AWUserGuideViewer.Guides
             {
                 IsBegin = false;
                 IsEnd = false;
+            }
+        }
+
+        // Fetched from Stack Overflow @ http://stackoverflow.com/a/2201648/775544
+        private string removeSubString(string sourceString, string removeString)
+        {
+            int index = sourceString.IndexOf(removeString);
+            return (index < 0)
+                ? sourceString
+                : sourceString.Remove(index, removeString.Length);
+        }
+
+        private string parseRawString(string rawString)
+        {
+            string newString = removeSubString(rawString.Trim(), beginDelimiter);
+
+            string regexQuotes = "\"[^\"]*\"\\s";
+
+            Match finalString = Regex.Match(newString, regexQuotes);
+            string[] keys = Regex.Split(newString, regexQuotes);
+
+            if (keys.Length == 2)
+            {
+                //keys.GetValue(0);
+                Link = keys[1];
+                return finalString.ToString();
+            }
+            else
+            {
+                return newString;
             }
         }
     }

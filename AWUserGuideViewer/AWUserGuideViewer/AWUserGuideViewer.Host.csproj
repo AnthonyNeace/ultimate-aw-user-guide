@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>world_edit.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -64,6 +67,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -83,6 +87,22 @@
       <Project>{c1f4693a-fea6-449d-b4bb-3caa897883b1}</Project>
       <Name>AWUserGuide.Common</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Content\Images\book.png" />
+    <Content Include="Content\Images\book_add.png" />
+    <Content Include="Content\Images\book_delete.png" />
+    <Content Include="Content\Images\book_edit.png" />
+    <Content Include="Content\Images\book_error.png" />
+    <Content Include="Content\Images\book_go.png" />
+    <Content Include="Content\Images\book_key.png" />
+    <Content Include="Content\Images\book_link.png" />
+    <Content Include="Content\Images\book_open.png" />
+    <Content Include="Content\Images\link.png" />
+    <Content Include="Content\Images\page_white_text.png" />
+    <Content Include="Content\Images\world_edit.png" />
+    <Content Include="world_edit.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

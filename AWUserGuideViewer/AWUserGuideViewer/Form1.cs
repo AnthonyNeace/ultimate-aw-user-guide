@@ -54,6 +54,7 @@ namespace AWUserGuideViewer
             txtFile.Text = guide.FilePath;
 
             treeView1.Nodes.Clear();
+            treeView1.ImageList = guide.BuildImageList();
             treeView1.Nodes.AddRange(guide.GuideNodes.ToArray());
         }
 
