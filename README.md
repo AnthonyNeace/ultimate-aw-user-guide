@@ -20,3 +20,9 @@ The Default.AWH file should be moved to...
 
 The previous home of the Ultimate AW User Guide can be found at the [SW City Builder's Academy]( http://www.swcity.net/academy/index.php?n=Main.UltimateAWUserGuide)
 
+
+### Attribution
+
+#### ActiveWorlds User Guide Viewer
+
+* Uses the Silk icon set 1.3 by Mark James.  Source: http://www.famfamfam.com/lab/icons/silk/
