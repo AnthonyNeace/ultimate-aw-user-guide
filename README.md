@@ -23,6 +23,13 @@ The previous home of the Ultimate AW User Guide can be found at the [SW City Bui
 
 ### Attribution
 
+#### Ultimate AW User Guide
+
+* Hyper Anthony (#350539) - Compiled Guide.
+* Bach Zhaa (#360197) - Creating so many of the resources that were included in this guide.
+* Kenneth (#313432) - Suggesting the World Owner guide.
+* Tunablues (#171610) - Directing me to AWSchool resources. 
+
 #### ActiveWorlds User Guide Viewer
 
 * Uses the Silk icon set 1.3 by Mark James.  Source: http://www.famfamfam.com/lab/icons/silk/
