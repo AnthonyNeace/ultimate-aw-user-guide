@@ -7,7 +7,6 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-//using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -103,30 +102,13 @@ namespace AWUserGuideViewer.Guides
 
         public ImageList BuildImageList()
         {
-            //var a = Assembly.GetExecutingAssembly(); // Or another Get method if you need to get it from some other assembly
-
             ImageList myImageList = new ImageList();
-            //myImageList.Images.Add(
 
             myImageList.Images.Add(Properties.Resources.book);
             myImageList.Images.Add(Properties.Resources.book_open);
             myImageList.Images.Add(Properties.Resources.book_link);
             myImageList.Images.Add(Properties.Resources.link);
             myImageList.Images.Add(Properties.Resources.page_white_text);
-
-            //var path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-
-            //myImageList.Images.Add(Image.FromFile(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"\..\..\Content\Images\book.png")));
-            //myImageList.Images.Add(Image.FromFile(@"\Content\Images\book_open.png"));
-            //myImageList.Images.Add(Image.FromFile(@"\Content\Images\link.png"));
-
-            //myImageList.Images.Add(Image.FromStream(a.GetManifestResourceStream("AWUserGuideViewer.Content.Images.book.png")));
-            //myImageList.Images.Add(Image.FromStream(a.GetManifestResourceStream("AWUserGuideViewer.Content.Images.book_open.png")));
-            //myImageList.Images.Add(Image.FromStream(a.GetManifestResourceStream("AWUserGuideViewer.Content.Images.book_link.png")));
-            
-            
-            //myImageList.Images.Add(Image.FromFile(@"Content\Images\book_open.png"));
-            //myImageList.Images.Add(Image.FromFile(@"Content\Images\link.png"));
 
             return myImageList;
         }
