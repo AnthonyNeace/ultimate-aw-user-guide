@@ -1,0 +1,252 @@
+﻿help_base http://www.activeworlds.com/help/aw60/document.php?
+
+topic "Welcome to Active Worlds"
+  "Welcome to Active Worlds" welcome
+  "How do I Get Started?" get_started
+  "How do I Register?" registration
+  "Search the User Guide" search/
+  "Additional Online Support" http://www.activeworlds.com/support.html
+endtopic
+
+topic "What's New in Version 6.0?"
+  "Welcome to 6.0" aw60
+  "Latest Beta Notes" http://wiki.activeworlds.com/index.php?title=New_Features_in_6.0
+endtopic
+
+topic "Register Now!"
+  help_with_registration "How to Register" registration
+  "Never Reveal Your Password!" password
+  "Citizenship" citizen
+endtopic
+
+topic "Getting Started"
+  "System Requirements" system_req
+  "Immigration and Registration" registration
+  "Video Problems" video_problems
+  "Automatic Upgrades" upgrade
+  "Firewalls and Proxy Servers" firewall
+endtopic
+
+topic "FAQs"
+  "Using Active Worlds" faq_using
+  "Building" faq_building
+  "World Servers" faq_world
+endtopic
+
+topic "Communicating"
+  "Chat Tips for Beginners" chat
+  "Communicating" communicate#1
+  "Mute Feature" communicate#2
+  "Chat Window" communicate#3
+  "Avatar Pop-Up Menu" avatar_popup
+  "Whispering" whisper
+  "Joining" joining
+  "Contacts" contacts
+  "Telegrams" telegram
+  "Sending Files" file_transfer
+  "Privacy" privacy
+  "Public Speakers" public_speakers
+  "Ejecting Users" eject
+endtopic
+
+topic "Avatars"
+  "What are Avatars?" avatars
+  "Choosing an Avatar" avatar
+  "Gestures" gestures
+  "Special Avatars" special_avatars
+endtopic
+
+topic "Building"
+  "Before Your Start" building#1
+  "Getting Started Building" building#2
+  "Selecting a Starter Object" building#3
+  "Moving an Object" building#4
+  "Sharing Privileges" privilege
+  "Multiple Object Selection" mselect
+  "Building Tips" building_tips
+  "Assigning Actions to Objects" actions
+  "Special Commands" restricted_commands
+  topic "Triggers"
+    Create create_trigger	 
+    Bump bump_trigger
+    Activate activate_trigger
+    Adone adone_trigger
+  endtopic
+  topic "Commands"
+    Animate animate_command
+    Astart astart_command
+    Astop astop_command
+    Color color_command
+	Corona corona_command
+	Examine examine_command
+    Frame frame_command
+	Light light_command
+	Media media_command
+	Move move_command
+    Name name_command
+    Noise noise_command
+    Picture picture_command
+	Rotate rotate_command
+    Sign sign_command
+    Solid solid_command
+    Sound sound_command
+    Teleport teleport_command
+	Texture texture_command
+    Url url_command
+    Visbile visible_command
+    Warp warp_command
+  endtopic
+  topic "AlphaWorld Building Objects"
+    "Overview" models.htm
+    "Animation Panels" animatio.htm
+    "Arches" arches.htm
+    "Awnings" awnings.htm
+    "Miscellaneous" miscella.htm
+    "Panels" panels.htm
+    "Roofs" roofs.htm
+    "Stairs" stairs.htm
+    "Trees and Flowers" trees.htm
+    "Walks and Floors" walks.htm
+    "Walls" walls.htm
+    "Water" water.htm
+  endtopic
+endtopic
+
+topic "The Interface"
+  topic "Moving Around"
+    "Moving with the Mouse" move#1
+    "Moving with the Keyboard" move#2
+    "Flying" move#3
+    "Gravity" gravity
+    "Teleporters" teleport
+  endtopic
+  topic "The Menu Bar"
+    "Teleport Menu" teleport_menu
+    "View Menu" view_menu
+    "Options Menu" options_menu
+    "Show Menu" show_menu
+    "Login Menu" login_menu
+    "Avatar Menu" avatar
+    "Visibility Menu" visibility_menu
+    "Web Menu" web_menu
+    "Help Menu" help_menu
+  endtopic
+  "The Web Browser" web_browser
+  topic "The Tabs Window"
+    "The Tabs Window" tabs
+	"Worlds List" world_list
+	"Contact List" contacts
+	"Teleport List" teleport_tab
+	"Telegram List" telegram
+	help_with_help "Integrated Help" integrated
+	"Search" search_tab
+  endtopic
+endtopic
+
+topic "Browser Settings"
+  "Overview" settings
+  "General" general
+  "Performance Tuning" performance
+  "Disk Usage" disk_usage
+  "Downloads" downloads
+  "Privacy" privacy
+  "Chat" chat_settings
+  "Advanced Options" advanced
+  "Video Options" video
+  "Web Options" web_settings
+endtopic
+
+topic "RWX Commands"
+  "Using RWX Extensions" rwx_extensions
+  "Unsupported Commands" rwx_unsupported
+  "AddMaterialMode" rwx_addmaterialmode
+  "AddTextureMode" rwx_addtexturemode
+  "Ambient" rwx_ambient
+  "AxisAlignment" rwx_axisalignment
+  "Block" rwx_block
+  "ClumpBegin" rwx_clumpbegin
+  "ClumpEnd" rwx_clumpend
+  "Collision" rwx_collision
+  "Color" rwx_color
+  "Cone" rwx_cone
+  "Cylinder" rwx_cylinder
+  "Diffuse" rwx_diffuse
+  "Disc" rwx_disc
+  "GeometrySampling" rwx_geometrysampling
+  "Hemisphere" rwx_hemisphere
+  "Identity" rwx_identity
+  "LightSampling" rwx_lightsampling
+  "MaterialBegin" rwx_materialbegin
+  "MaterialEnd" rwx_materialend
+  "MaterialMode" rwx_materialmode
+  "ModelBegin" rwx_modelbegin
+  "ModelEnd" rwx_modelend
+  "Opacity" rwx_opacity
+  "Polygon" rwx_polygon
+  "ProtoBegin" rwx_protobegin
+  "ProtoEnd" rwx_protoend
+  "ProtoInstance" rwx_protoinstance
+  "ProtoInstanceGeometry" rwx_protoinstancegeometry
+  "Quad" rwx_quad
+  "RandomUVs" rwx_randomuvs
+  "RemoveMaterialMode" rwx_removematerialmode
+  "RemoveTextureMode" rwx_removetexturemode
+  "Rotate" rwx_rotate
+  "Scale" rwx_scale
+  "Specular" rwx_specular
+  "Sphere" rwx_sphere
+  "Surface" rwx_surface
+  "Tag" rwx_tag
+  "Texture" rwx_texture
+  "TextureAddressMode" rwx_textureaddressmode
+  "TextureMipmapState" rwx_texturemipmapstate
+  "TextureMode" rwx_texturemode
+  "Transform" rwx_transform
+  "TransformBegin" rwx_transformbegin
+  "TransformEnd" rwx_transformend
+  "Translate" rwx_translate
+  "Vertex" rwx_vertex
+endtopic
+
+topic "Other Topics"
+  "Bots" bots
+  "Software Development Kit" http://www.activeworlds.com/sdk
+  "COB Support" cob
+  "Foreign Language Support" language
+  "Video Drivers" video_problems
+  "Generating A Debug Log" debug_log
+  "Custom Toolbar" toolbar
+endtopic
+
+topic "The Active Worlds Server"
+  "System Requirements" server_req
+  topic "Installing"
+    "Windows 2000/XP/Vista/Win7/Win8" install_win
+    "Linux" install_unix
+  endtopic
+  "Upgrading to Version 6.0" world_upgrade
+  "Frequently Asked Questions" faq_world
+  topic "Server Administration"
+    "Overview" admin
+	"Adding a world" admin_add
+	"Changing a world" admin_change
+	"Deleting a world" admin_delete
+	"Resetting a world" admin_reset
+	"Starting and stopping worlds" admin_startstop
+	"Reloading registries" admin_registry
+	"Propdumps" admin_propdump
+	"Atdumps" admin_atdump
+	"Moving worlds" admin_move
+	"Administering Multiple Servers" admin_multiple
+  endtopic
+  "Automatic Backups" world_backups
+  "Running Multiple Servers" multiple_worlds
+  "Configuration" world_options
+  "Creating a World" creating
+  "Using an Object Registry" registry
+endtopic
+
+topic "The Wiki"
+  "The Activeworlds Wiki" http://wiki.activeworlds.com/index.php?title=Main_Page 
+endtopic
+
