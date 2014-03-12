@@ -1,0 +1,258 @@
+help_base www.activeworlds.com/help/aw36
+
+topic "Welcome to Active Worlds"
+  "Welcome to Active Worlds" welcome.html
+  "How do I Get Started?" get_started.html
+  "How do I Register?" registration.html
+  "Search the User Guide" search/
+  "Additional Online Support" http://www.activeworlds.com/tech/
+endtopic
+
+topic "What's New in Version 3.6?"
+  "Welcome to 3.6" aw36.html
+  "Latest Beta Notes" beta.html
+endtopic
+
+topic "Register Now!"
+  help_with_registration "How to Register" registration.html
+  "Never Reveal Your Password!" password.html
+  "Citizenship" citizen.html
+endtopic
+
+topic "Getting Started"
+  "System Requirements" system_req.html
+  "Immigration and Registration" registration.html
+  "Video Problems" video_problems.html
+  "Automatic Upgrades" upgrade.html
+  "Firewalls and Proxy Servers" firewall.html
+endtopic
+
+topic "FAQs"
+  "Using Active Worlds" faq_using.html
+  "Building" faq_building.html
+  "World Servers" faq_world.html
+endtopic
+
+topic "Communicating"
+  "Chat Tips for Beginners" chat.html
+  "Communicating" communicate.html#1
+  "Mute Feature" communicate.html#2
+  "Chat Window" communicate.html#3
+  "Avatar Pop-Up Menu" avatar_popup.html
+  "Whispering" whisper.html
+  "Joining" joining.html
+  "Contacts" contacts.html
+  "Telegrams" telegram.html
+  "Sending Files" file_transfer.html
+  "Privacy" privacy.html
+  "Public Speakers" public_speakers.html
+  "Ejecting Users" eject.html
+endtopic
+
+topic "Avatars"
+  "What are Avatars?" avatars.html
+  "Choosing an Avatar" avatar.html
+  "Gestures" gestures.html
+  "Special Avatars" special_avatars.html
+endtopic
+
+topic "Building"
+  "Before Your Start" building.html#1
+  "Getting Started Building" building.html#2
+  "Selecting a Starter Object" building.html#3
+  "Moving an Object" building.html#4
+  "Sharing Privileges" privilege.html
+  "Multiple Object Selection" mselect.html
+  "Building Tips" building_tips.html
+  "Assigning Actions to Objects" actions.html
+  "Special Commands" restricted_commands.html
+  topic "Triggers"
+    Create create_trigger.html	  
+    Bump bump_trigger.html
+    Activate activate_trigger.html
+    Adone adone_trigger.html
+  endtopic
+  topic "Commands"
+    Animate animate_command.html
+    Astart astart_command.html
+    Astop astop_command.html
+    Color color_command.html
+	Corona corona_command.html
+	Examine examine_command.html
+    Frame frame_command.html
+	Light light_command.html
+	Media media_command.html
+	Move move_command.html
+    Name name_command.html
+    Noise noise_command.html
+    Picture picture_command.html
+	Rotate rotate_command.html
+    Sign sign_command.html
+    Solid solid_command.html
+    Sound sound_command.html
+    Teleport teleport_command.html
+	Texture texture_command.html
+    Url url_command.html
+    Visbile visible_command.html
+    Warp warp_command.html
+  endtopic
+  topic "AlphaWorld Building Objects"
+    "Overview" models.htm
+    "Animation Panels" animatio.htm
+    "Arches" arches.htm
+    "Awnings" awnings.htm
+    "Miscellaneous" miscella.htm
+    "Panels" panels.htm
+    "Roofs" roofs.htm
+    "Stairs" stairs.htm
+    "Trees and Flowers" trees.htm
+    "Walks and Floors" walks.htm
+    "Walls" walls.htm
+    "Water" water.htm
+  endtopic
+endtopic
+
+topic "The Interface"
+  topic "Moving Around"
+    "Moving with the Mouse" move.html#1
+    "Moving with the Keyboard" move.html#2
+    "Flying" move.html#3
+    "Gravity" gravity.html
+    "Teleporters" teleport.html
+  endtopic
+  topic "The Menu Bar"
+    "Teleport Menu" teleport_menu.html
+    "View Menu" view_menu.html
+    "Options Menu" options_menu.html
+    "Show Menu" show_menu.html
+    "Login Menu" login_menu.html
+    "Avatar Menu" avatar.html
+    "Visibility Menu" visibility_menu.html
+    "Web Menu" web_menu.html
+    "Help Menu" help_menu.html
+  endtopic
+  "The Web Browser" web_browser.html
+  topic "The Tabs Window"
+    "The Tabs Window" tabs.html
+	"Worlds List" world_list.html
+	"Contact List" contacts.html
+	"Teleport List" teleport_tab.html
+	"Telegram List" telegram.html
+	help_with_help "Integrated Help" integrated.html
+	"Search" search_tab.html
+  endtopic
+endtopic
+
+topic "Browser Settings"
+  "Overview" settings.html
+  "General" general.html
+  "Performance Tuning" performance.html
+  "Disk Usage" disk_usage.html
+  "Downloads" downloads.html
+  "Privacy" privacy.html
+  "Chat" chat_settings.html
+  "Advanced Options" advanced.html
+  "Video Options" video.html
+  "Web Options" web_settings.html
+endtopic
+
+topic "RWX Commands"
+  "Using RWX Extensions" rwx_extensions.html
+  "Unsupported Commands" rwx_unsupported.html
+  "AddMaterialMode" rwx_addmaterialmode.html
+  "AddTextureMode" rwx_addtexturemode.html
+  "Ambient" rwx_ambient.html
+  "AxisAlignment" rwx_axisalignment.html
+  "Block" rwx_block.html
+  "ClumpBegin" rwx_clumpbegin.html
+  "ClumpEnd" rwx_clumpend.html
+  "Collision" rwx_collision.html
+  "Color" rwx_color.html
+  "Cone" rwx_cone.html
+  "Cylinder" rwx_cylinder.html
+  "Diffuse" rwx_diffuse.html
+  "Disc" rwx_disc.html
+  "GeometrySampling" rwx_geometrysampling.html
+  "Hemisphere" rwx_hemisphere.html
+  "Identity" rwx_identity.html
+  "LightSampling" rwx_lightsampling.html
+  "MaterialBegin" rwx_materialbegin.html
+  "MaterialEnd" rwx_materialend.html
+  "MaterialMode" rwx_materialmode.html
+  "ModelBegin" rwx_modelbegin.html
+  "ModelEnd" rwx_modelend.html
+  "Opacity" rwx_opacity.html
+  "Polygon" rwx_polygon.html
+  "ProtoBegin" rwx_protobegin.html
+  "ProtoEnd" rwx_protoend.html
+  "ProtoInstance" rwx_protoinstance.html
+  "ProtoInstanceGeometry" rwx_protoinstancegeometry.html
+  "Quad" rwx_quad.html
+  "RandomUVs" rwx_randomuvs.html
+  "RemoveMaterialMode" rwx_removematerialmode.html
+  "RemoveTextureMode" rwx_removetexturemode.html
+  "Rotate" rwx_rotate.html
+  "Scale" rwx_scale.html
+  "Specular" rwx_specular.html
+  "Sphere" rwx_sphere.html
+  "Surface" rwx_surface.html
+  "Tag" rwx_tag.html
+  "Texture" rwx_texture.html
+  "TextureAddressMode" rwx_textureaddressmode.html
+  "TextureMipmapState" rwx_texturemipmapstate.html
+  "TextureMode" rwx_texturemode.html
+  "Transform" rwx_transform.html
+  "TransformBegin" rwx_transformbegin.html
+  "TransformEnd" rwx_transformend.html
+  "Translate" rwx_translate.html
+  "Vertex" rwx_vertex.html
+endtopic
+
+topic "Other Topics"
+  "Bots" bots.html
+  "Software Development Kit" http://www.activeworlds.com/sdk
+  "COB Support" cob.html
+  "Foreign Language Support" language.html
+  "Video Drivers" video_problems.html
+  "Generating A Debug Log" debug_log.html
+  "Custom Toolbar" toolbar.html
+endtopic
+
+topic "The Active Worlds Server"
+  "System Requirements" server_req.html
+  topic "Installing"
+    "Windows 9x/Me/NT" install_win.html
+    "Unix (Sun or Linux)" install_unix.html
+  endtopic
+  "What's new in Version 3.3" world33.html
+  "Upgrading to Version 3.3" world_upgrade.html
+  "Frequently Asked Questions" faq_world.html
+  topic "Server Administration"
+    "Overview" admin.html
+	"Adding a world" admin_add.html
+	"Changing a world" admin_change.html
+	"Deleting a world" admin_delete.html
+	"Resetting a world" admin_reset.html
+	"Starting and stopping worlds" admin_startstop.html
+	"Reloading registries" admin_registry.html
+	"Propdumps" admin_propdump.html
+	"Atdumps" admin_atdump.html
+	"Moving worlds" admin_move.html
+	"Administering Multiple Servers" admin_multiple.html
+  endtopic
+  "Automatic Backups" world_backups.html
+  "Running Multiple Servers" multiple_worlds.html
+  "Configuration" world_options.html
+  "Creating a World" creating.html
+  "Using an Object Registry" registry.html
+endtopic
+
+topic "The Newsgroups"
+  "How to Read and Post" http://www.activeworlds.com/community/new_newsgroups.html 
+  "General Discussion" news://news.activeworlds.com/community
+  "World Owners and Builders" news://news.activeworlds.com/worldbuilders
+  "Software Development Kit" news://news.activeworlds.com/sdk
+  "Bot Issues" news://news.activeworlds.com/bots
+  "Beta Testers" news://news.activeworlds.com/beta
+endtopic
+
