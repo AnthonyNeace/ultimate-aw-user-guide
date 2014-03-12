@@ -1,6 +1,6 @@
 AWUserGuideUtilities
 ===================
-This repository is host to a myriad of utilities and libraries relating to ActiveWorlds' User Guide feature.  
+This repository is host to a myriad of utilities and libraries relating to [ActiveWorlds](https://www.activeworlds.com/index.html)' User Guide feature.  
 
 UltimateAWUserGuide
 -------------------
