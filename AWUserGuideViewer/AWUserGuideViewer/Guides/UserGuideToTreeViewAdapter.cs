@@ -1,5 +1,5 @@
-﻿using AWUserGuideViewer.Common;
-using AWUserGuideViewer.Common.Guides;
+﻿using AWUserGuide.Common;
+using AWUserGuide.Common.Guides;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,11 +15,6 @@ namespace AWUserGuideViewer.Guides
 {
     public class UserGuideToTreeViewAdapter
     {
-        string _name;
-        string _filePath;
-        byte[] _contents;
-        int _counter = 0;
-
         public string Name { get; set; }
         public string FilePath { get; set; }
         public string[] AllLines { get; set; }
@@ -37,7 +32,6 @@ namespace AWUserGuideViewer.Guides
             Worker = backgroundWorker;
 
             AllLines = LoadFile(filePath);
-            _counter = 0;
 
             UserGuide = new UserGuide(AllLines, settings);
             GuideNodes = BuildTree(UserGuide.Lines);

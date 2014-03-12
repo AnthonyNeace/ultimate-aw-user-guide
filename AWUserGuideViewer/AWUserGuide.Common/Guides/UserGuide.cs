@@ -1,11 +1,11 @@
-﻿using AWUserGuideViewer.Guides;
+﻿using AWUserGuide.Common.Guides;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AWUserGuideViewer.Common.Guides
+namespace AWUserGuide.Common.Guides
 {
     public class UserGuide
     {

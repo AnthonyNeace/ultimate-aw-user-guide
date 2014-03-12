@@ -1,5 +1,5 @@
-﻿using AWUserGuideViewer.Guides;
-
+﻿using AWUserGuide.Common.Guides;
+using AWUserGuideViewer.Guides;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,6 +16,7 @@ namespace AWUserGuideViewer
     {
         DisplaySettings settings;
         public bool formInitialized = false;
+        UserGuideToTreeViewAdapter _loadedGuide;
 
         public Form1()
         {
@@ -25,6 +26,22 @@ namespace AWUserGuideViewer
             ComboBox_NumberedLines.SelectedIndex = 0;
             formInitialized = true;
         }
+
+        #region TreeView
+
+        private void clearTreeView()
+        {
+            treeView1.Nodes.Clear();
+        }
+
+        private void buildTreeView()
+        {
+            clearTreeView();
+            treeView1.ImageList = _loadedGuide.BuildImageList();
+            treeView1.Nodes.AddRange(_loadedGuide.GuideNodes.ToArray());
+        }
+
+        #endregion
 
         private void loadToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -50,12 +67,14 @@ namespace AWUserGuideViewer
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             UserGuideToTreeViewAdapter guide = e.Result as UserGuideToTreeViewAdapter;
+            _loadedGuide = guide;
 
-            txtFile.Text = guide.FilePath;
+            if (guide != null)
+            {
+                txtFile.Text = guide.FilePath;
 
-            treeView1.Nodes.Clear();
-            treeView1.ImageList = guide.BuildImageList();
-            treeView1.Nodes.AddRange(guide.GuideNodes.ToArray());
+                buildTreeView();
+            }
         }
 
         private void backgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)

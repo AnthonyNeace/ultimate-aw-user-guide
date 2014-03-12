@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace AWUserGuideViewer.Guides
+namespace AWUserGuide.Common.Guides
 {
     public class UserGuideLines
     {

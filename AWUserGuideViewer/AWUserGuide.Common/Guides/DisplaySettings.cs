@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AWUserGuideViewer
+namespace AWUserGuide.Common.Guides
 {
     public class DisplaySettings
     {
