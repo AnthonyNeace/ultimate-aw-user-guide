@@ -107,24 +107,8 @@ topic "Active Worlds Official User Guide"
 endtopic
 topic "——————————————————————————————"
 endtopic
-topic "Active Worlds Version 5.1 (Build 1171)"
-  topic "Released: October 21, 2010"
-  endtopic
-  topic "New Features in Active Worlds 5.1"
-    topic "* Physics simulation implementation."
-    endtopic
-    topic "* Extended Presentation features, including PPT processing and server stored presentations."
-    endtopic    
-    topic "* Timers,  timed events and  scheduled events."
-    endtopic    
-  endtopic
-  topic "Release Notes (Build 1171)"
-    topic "* Added an option to zones to block audio."
-    endtopic
-    topic "* Fixed a crashing issue with Newton Dynamics physics engine, when running on a 16 core CPU."
-    endtopic
-  endtopic
-  "ActiveWiki - New Features in 5.1" http://wiki.activeworlds.com/index.php?title=New_Features_in_5.1
+topic "Active Worlds Version 7.0"
+  "ActiveWiki - New Features in Active Worlds 7.0" http://wiki.activeworlds.com/index.php?title=7.0
 endtopic
 topic "Welcome to Active Worlds! (New users start here!)"
   topic "TIP: Click the + to open folders and navigate this user guide!"
