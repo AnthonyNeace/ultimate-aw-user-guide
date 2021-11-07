@@ -1221,80 +1221,78 @@ topic "Ultimate Teleports List"
   topic "--------------------------------------------------"
   endtopic
   topic "AWTeen"
-  endtopic
-  topic "Information: A popular public building world. Currently archived."
-  endtopic
-  "Homepage" http://awteen.us/
-  "AWPortals - AWTeen" http://awportals.com/sidebar/awteen.php
-  "JAM Guides" http://awteen.us/teams/just-ask-me-guides/
-  "OP Search" http://www.awportals.com/opsearch/awteen.php
-  "Wiki" http://wiki.activeworlds.com/index.php?title=Awteen
-  "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_0n_0e
-  topic "Builds"
-    "Chemical Factory" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2330.201n_406.979w_19.7a
-    "Clamath Island" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_3065.28s_154.16e_0.25a_240
-    "Club Baro" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_687s_506w_6a_180 
-    "Cobalt City (RoxRox)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2121N_2636E
-    "Interway Authority" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_0n_940w
-    "Millionaire Studio" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_534s_2732e_4.1a_180
-    "Parkhaven"  http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_600n_1800e_6.1a_0
-    "Serenity Falls" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1974.543n_2876.198e_1.2a_134
-    "Sonic HQ Building" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2500s_500e_1.6a_360
-    "Spiral Glacier" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_246s_2981w_1.5a_240
-    "Stargate Dungeon Adventure" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1129.21s_1894.02w_0.18a_268
-    "SWamp" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2000n_3300w_0.7a_89
-    "Winter 04/05 GZ" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1892.109n_936e_0a
-  endtopic
-  topic "Towns and Communities"
-    topic "Cypress Hollow"
-      topic "Mayor: GC"
-      endtopic
-      topic "Information: Founded as a precinct of New Arklay City -- Cypress Hollow was the only state that did not become inactive after New Arklay City was dissolved."
-      endtopic
-      "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2700s_1200e
-      "Globe Stadium" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2780S_1130E
+    topic "Information: A popular public building world. Currently archived."
     endtopic
-    topic "Huntington"
-      topic "Mayor: Arnold NYC"
-      endtopic
-      topic "Information: An up and coming town founded on July 11, 2009."
-      endtopic
-      "Website" http://www.huntingtoncityaw.webs.com/
-      "Wiki" http://wiki.activeworlds.com/index.php?title=Huntington
-      "Facebook" http://www.facebook.com/pages/Huntington-City-AW/358635013791
-      "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1589.17S_365.90E_0.01a_360
-      "City Hall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1563.741s_375.389e_0.2a_90
+    "Homepage" http://awteen.us/
+    "AWPortals - AWTeen" http://awportals.com/sidebar/awteen.php
+    "JAM Guides" http://awteen.us/teams/just-ask-me-guides/
+    "OP Search" http://www.awportals.com/opsearch/awteen.php
+    "Wiki" http://wiki.activeworlds.com/index.php?title=Awteen
+    "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_0n_0e
+    topic "Builds"
+      "Chemical Factory" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2330.201n_406.979w_19.7a
+      "Clamath Island" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_3065.28s_154.16e_0.25a_240
+      "Club Baro" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_687s_506w_6a_180 
+      "Cobalt City (RoxRox)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2121N_2636E
+      "Interway Authority" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_0n_940w
+      "Millionaire Studio" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_534s_2732e_4.1a_180
+      "Parkhaven"  http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_600n_1800e_6.1a_0
+      "Serenity Falls" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1974.543n_2876.198e_1.2a_134
+      "Sonic HQ Building" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2500s_500e_1.6a_360
+      "Spiral Glacier" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_246s_2981w_1.5a_240
+      "Stargate Dungeon Adventure" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1129.21s_1894.02w_0.18a_268
+      "SWamp" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2000n_3300w_0.7a_89
+      "Winter 04/05 GZ" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1892.109n_936e_0a
     endtopic
-    topic "Moonlight Heights"
-      topic "Mayor: AlexTheMartian"
+    topic "Towns and Communities"
+      topic "Cypress Hollow"
+        topic "Mayor: GC"
+        endtopic
+        topic "Information: Founded as a precinct of New Arklay City -- Cypress Hollow was the only state that did not become inactive after New Arklay City was dissolved."
+        endtopic
+        "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2700s_1200e
+        "Globe Stadium" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2780S_1130E
       endtopic
-      "Website" http://www.mheights.com/
-      "Wiki" http://wiki.activeworlds.com/index.php?title=Moonlight_Heights
-      "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_520s_500w_0.024a_0
-      "Digigurls House" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_641.104s_463.459w_0.83a_40
-      "Martian Stadium (CY)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_517S_415.5W_270
-      "Wal-Mart" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_570S_406.5W_180
-    endtopic
-    topic "New Arklay City"
-      topic "Mayor: Hyper Anthony"
+      topic "Huntington"
+        topic "Mayor: Arnold NYC"
+        endtopic
+        topic "Information: An up and coming town founded on July 11, 2009."
+        endtopic
+        "Website" http://www.huntingtoncityaw.webs.com/
+        "Wiki" http://wiki.activeworlds.com/index.php?title=Huntington
+        "Facebook" http://www.facebook.com/pages/Huntington-City-AW/358635013791
+        "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1589.17S_365.90E_0.01a_360
+        "City Hall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1563.741s_375.389e_0.2a_90
       endtopic
-      topic "Info: Currently defunct.  Achieved largest city in AWTeen. Founded in 2004.  Succeeded by Cypress Hollow."
+      topic "Moonlight Heights"
+        topic "Mayor: AlexTheMartian"
+        endtopic
+        "Website" http://www.mheights.com/
+        "Wiki" http://wiki.activeworlds.com/index.php?title=Moonlight_Heights
+        "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_520s_500w_0.024a_0
+        "Digigurls House" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_641.104s_463.459w_0.83a_40
+        "Martian Stadium (CY)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_517S_415.5W_270
+        "Wal-Mart" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_570S_406.5W_180
       endtopic
-      "Wiki" http://wiki.activeworlds.com/index.php?title=New_Arklay_City
-      "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2850s_1400e_0a_0
-      "City Hall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2961.5S_1370E_5.7a_180
-      "Flushing Oaks Tourist community" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_3838S_1380E
-      "Virtual Paradise (Robbie)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2595.05s_1179.25e_0.21a_86
+      topic "New Arklay City"
+        topic "Mayor: Hyper Anthony"
+        endtopic
+        topic "Info: Currently defunct.  Achieved largest city in AWTeen. Founded in 2004.  Succeeded by Cypress Hollow."
+        endtopic
+        "Wiki" http://wiki.activeworlds.com/index.php?title=New_Arklay_City
+        "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2850s_1400e_0a_0
+        "City Hall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2961.5S_1370E_5.7a_180
+        "Flushing Oaks Tourist community" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_3838S_1380E
+        "Virtual Paradise (Robbie)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2595.05s_1179.25e_0.21a_86
+      endtopic
+      topic "Other Towns and Cities"
+        "Black Haven" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_3508.516n_594.263e_0.0a
+      endtopic
     endtopic
-    topic "Other Towns and Cities"
-      "Black Haven" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_3508.516n_594.263e_0.0a
-    endtopic
-  endtopic
   endtopic
   topic "--------------------------------------------------"
   endtopic
   topic "Yellow"
-    endtopic
     topic "Info: Founded in 1995 by COF.  Reformed in 2007 by Digigurl and Squailboont."
     endtopic
     "World Bot - Ranger Rick" http://squailboont.info/apollo/help
@@ -1329,7 +1327,6 @@ topic "Ultimate Teleports List"
   topic "--------------------------------------------------"
   endtopic
   topic "Winter"
-    endtopic
     "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Winter
     "Wiki" http://wiki.activeworlds.com/index.php?title=Winter
     "Resource Yard" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Winter_702s_700w
