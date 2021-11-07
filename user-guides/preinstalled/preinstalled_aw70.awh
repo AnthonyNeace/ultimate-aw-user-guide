@@ -1,0 +1,97 @@
+help_base http://wiki.activeworlds.com/index.php?title=
+
+topic "Welcome to Active Worlds"
+  "Welcome to Active Worlds" Browser
+  "How do I Get Started?" Get_Started
+  "Search the User Guide" Special%3ASearch
+  "Latest Build Notes" Latest_version
+endtopic
+
+topic "Getting Started"
+  topic "My Account"
+    "Citizenship" Citizen
+    "Never Reveal Your Password!" Password_Security
+  endtopic
+  "Firewalls and Proxy Servers" Firewall
+  "Automatic Upgrades" Automatic_Upgrades
+  topic "FAQs"
+    "FAQs" http://forums.activeworlds.com/list.php?337
+    "Community Help" http://forums.activeworlds.com
+  endtopic
+  "System Requirements" System_Requirements
+endtopic
+
+topic "Moving Around"
+  "Keyboard Commands" Moving_Around#Keyboard 
+  "Moving with the Mouse" Moving_Around#Mouse 
+  "Advanced Movements" Moving_Around#Advanced_Movements 
+  "Configuring the Controls" Moving_Around#Configuring_the_Controls 
+  "Teleports" Teleports 
+  "Touch Devices" Touch_Devices 
+endtopic
+  
+topic "Communicating"
+  "Chat Tips" Chat
+  "Communicating" Communicating
+  "Contacts and more" Contacts
+  "Privacy" Privacy
+  "Public Speakers" Public_Speaker
+endtopic
+
+topic "Avatars"
+  "What are Avatars?" Avatars
+  "Gestures" Gestures
+endtopic
+
+topic "The Interface"
+  "Interface Overview" Browser_interface
+  "The Menu Bar" Menu_Bar
+  "The Tabs Window" Tabs
+  "The Tool Bar" Tool_Bar
+  "System Tray" Tray_Icon
+endtopic
+
+topic "Building"
+  "Before Your Start" Building_start
+  "Building" Building
+  "Object Properties" Object_Properties_Dialog
+  "Sharing Privileges" Privileges
+  "Special Commands" World_rights#Special_Commands
+  "Triggers" Object_Scripting#Triggers
+  "Commands" Object_Scripting#Commands
+  "Lists of models" Model_Lists
+endtopic
+
+topic "Browser Settings"
+  "Overview" Browser_Settings
+  "General" General_Settings
+  "Advanced Options" Advanced_Settings
+  "Performance Tuning" Performance_Settings
+  "Disk Usage" Disk_Usage_Settings
+  "Downloads" Downloads_Settings
+  "Privacy" Privacy_Settings
+  "Chat" Chat_Settings
+  "Graphic Options" Graphic_Settings
+  "Web Options" Web_Settings
+endtopic
+
+topic "Other Topics"
+  "AWORLD Log" Aworld_log
+  "Troubleshoot Graphic Card" Video_Troubleshooting
+endtopic
+
+topic "3D Designer Topics"
+  "RWX Model Scripts" Renderware
+  "COB Support" TrueSpace
+  "Skinned Avatars" Skinned_avatars
+  "Custom Avatars Tech" Custom_Avatar
+  "DX Animations" DX_Animation
+  "Converting 3D Models" AccuTrans_3D
+  "Blender" Blender
+endtopic
+
+topic "Development Kit"
+  "Software Development Kit" SDK
+  "Bots (3rd party SDK based apps)" Bots
+endtopic
+
