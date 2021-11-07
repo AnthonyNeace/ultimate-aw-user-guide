@@ -107,203 +107,17 @@ topic "Active Worlds Official User Guide"
 endtopic
 topic "——————————————————————————————"
 endtopic
-topic "Active Worlds Version 5.1 (Build 1171)"
-  topic "Released: October 21, 2010"
-  endtopic
-  topic "New Features in Active Worlds 5.1"
-    topic "* Physics simulation implementation."
-    endtopic
-    topic "* Extended Presentation features, including PPT processing and server stored presentations."
-    endtopic    
-    topic "* Timers,  timed events and  scheduled events."
-    endtopic    
-  endtopic
-  topic "Release Notes (Build 1171)"
-    topic "* Added an option to zones to block audio."
-    endtopic
-    topic "* Fixed a crashing issue with Newton Dynamics physics engine, when running on a 16 core CPU."
-    endtopic
-  endtopic
-  "ActiveWiki - New Features in 5.1" http://wiki.activeworlds.com/index.php?title=New_Features_in_5.1
-endtopic
-topic "Welcome to Active Worlds! (New users start here!)"
-  topic "TIP: Click the + to open folders and navigate this user guide!"
-  endtopic
-  "Welcome to Active Worlds" welcome
-   "How do I Get Started?" get_started
-   "How do I Register?" registration
-    "Search the User Guide" search/
-   "Additional Online Support" http://www.activeworlds.com/tech/
-  topic "TIP: Read the links within to learn how to move and interact in Active Worlds."
-    "AWPortals - How to Walk" http://www.awportals.com/sidebar/tutorial.php
-   "AWPortals - Learn to Fly" http://www.awportals.com/sidebar/tutorial.php?page=ps_flying
-   "AWPortals - Learn to Shift through Objects" http://www.awportals.com/sidebar/tutorial.php?page=ps_shifting
-   "AWPortals - Learn to Change your Avatar" http://www.awportals.com/sidebar/tutorial.php?page=ps_avatar
-   "AWPortals - Learn to change your View" http://www.awportals.com/sidebar/tutorial.php?page=ps_view
-   "AWPortals - Learn to Teleport" http://www.awportals.com/sidebar/tutorial.php?page=ps_teleport
-   "AWPortals - Learn about Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worlds
-   "AWPortals - Learn to travel across the Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worldhop
-   "AWPortals - Guide to Custom Avatars" http://www.awportals.com/the_guide/cavs.php
-  endtopic
+topic "Active Worlds Version 7.0"
+  "ActiveWiki - New Features in Active Worlds 7.0" http://wiki.activeworlds.com/index.php?title=7.0
 endtopic
 topic "Staying Connected in the Active Worlds Universe"
-"AWPortals - Community Events Calendar" http://awportals.com/events
 "ActiveWiki" http://wiki.activeworlds.com
 "ActiveWiki - Glossary of Terms" http://wiki.activeworlds.com/index.php?title=Glossary
 "Active Worlds Community" http://awcommunity.org/
 "Active Worlds Forums" http://forums.activeworlds.com 
 "Active Worlds Monthly Newsletter" http://activeworlds.com/newsletter
-  topic "Active Worlds Monthly Newsletter - October's Sights To See"
-  "Delight" http://objects.activeworlds.com/cgi-bin/teleport.cgi?delight
-  "Earwax" http://objects.activeworlds.com/cgi-bin/teleport.cgi?earwax
-  "Glitter" http://objects.activeworlds.com/cgi-bin/teleport.cgi?glitter
-  "Haunted Mansion" http://objects.activeworlds.com/cgi-bin/teleport.cgi?rides4us_19s_0w
-  "Vapir" http://objects.activeworlds.com/cgi-bin/teleport.cgi?vapir
-    topic "Archived Sights To See"
-    "EBTS" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awebts_3
-    "Lune" http://objects.activeworlds.com/cgi-bin/teleport.cgi?lune
-    "Shimmer" http://objects.activeworlds.com/cgi-bin/teleport.cgi?shimmer
-    "Helen" http://objects.activeworlds.com/cgi-bin/teleport.cgi?helen
-    "RedRoses" http://objects.activeworlds.com/cgi-bin/teleport.cgi?redroses
-    "YouTopia" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Youtopia
-    "LivEasy" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Liveasy
-    "Alena" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Alena
-    "ZAGZ" http://objects.activeworlds.com/cgi-bin/teleport.cgi?ZAGZ
-    "Reflect" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Reflect
-    "Yooper" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Yooper
-    "Skunkwks" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Skunkwks
-    "Mars Central" http://objects.activeworlds.com/cgi-bin/teleport.cgi?mars_526n_191w
-    "Ludus" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Ludus
-    "Helen" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Helen
-    endtopic
-  endtopic
 endtopic
 topic "——————————————————————————————"
-endtopic
-topic "FEATURED: CY AWARDS HANDBOOK"
-  topic "Info: The Cy Awards are an annual awards ceremony that draw hundreds of users for a night of celebration."
-  endtopic
-  topic "Info: Held in CyAwards world, awards for a variety of categories are selected through community nomination and voting."
-  endtopic
-  topic "Info: Please read below for instructions on nomination and voting!"
-  endtopic
-  topic "--------------------------------------------------"
-  endtopic
-  topic "NOMINATION - (October 15 - 25, 2010)"
-    topic "Info: Every citizen is allowed to nominate projects or people to the Cy Awards."
-    endtopic
-    topic "Info: To begin the process, enter CyAwards world.  A password will show at the top of your screen."
-    endtopic
-    topic "Info: Enter this password into the web addressed given to you in the chat window."
-    endtopic
-    topic "Info: The rest is up to you! Nominate who or what you think should win in each category!"
-    endtopic
-    "AW Forums - CY Nominations Open Friday 15th 10 PM VRT" http://forums.activeworlds.com/showthread.php?t=14206
-    "Teleport - Cyawards" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
-  endtopic
-  topic "--------------------------------------------------"
-  endtopic
-  topic "VOTING - (November 1 - 8, 2010)"
-    topic "Info: Voting works in the same way that nomination does."
-    endtopic 
-    topic "Info: Simply get your password from Cyawards world, and click the link given at their GZ."
-    endtopic
-    topic "You may then go through the categories on the Cy Awards site and make your vote!"
-    endtopic
-    "Teleport - Cyawards" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
-  endtopic
-  topic "--------------------------------------------------"
-  endtopic
-  topic "CEREMONY - (November 13, 2010 @ 10pm VRT)
-    topic "Info: This is the big night! Put on your sharpest avatar and head on in to Cyawards world!"
-    endtopic
-    topic "Info: Follow the directions in world to make it to the stage and enjoy the show!"
-    endtopic
-    "Teleport - Cyawards" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
-  endtopic
-  topic "--------------------------------------------------"
-  endtopic
-  topic "2010 Categories"
-    "Best Build" http://www.cyawards.com/
-    "Best Presentation" http://www.cyawards.com/
-    "Best Event" http://www.cyawards.com/
-    "Best Leader" http://www.cyawards.com/
-    "Best Community or Town" http://www.cyawards.com/
-    "Best Environmental Design" http://www.cyawards.com/
-    "Best Interactive Game" http://www.cyawards.com/
-    "Best Media Presentation" http://www.cyawards.com/
-    "Best Website" http://www.cyawards.com/
-    "Best Bot Design/Software" http://www.cyawards.com/
-    "Best Effect" http://www.cyawards.com/
-    "Best Object Design" http://www.cyawards.com/
-    "Best World" http://www.cyawards.com/
-    "Write In" http://www.cyawards.com/
-  endtopic
-  topic "History of Past Ceremonies"
-    topic "Info: Click below for a write-up of each ceremony!"
-    endtopic
-    "ActiveWiki - 1998 Cy Awards (May)" http://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(May)
-    "ActiveWiki - 1998 Cy Awards (September)" http://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(September)
-    "ActiveWiki - 1999 Cy AWards (January)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(January)
-    "ActiveWiki - 1999 Cy Awards (June)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(June)
-    "ActiveWiki - 1999 Cy Awards (October)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(October)
-    "ActiveWiki - 2000 Cy Awards (January)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(January)
-    "ActiveWiki - 2000 Cy Awards (April)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(April)
-    "ActiveWiki - 2000 Cy Awards (September)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(September)
-    "ActiveWiki - 2001 Cy Awards" http://wiki.activeworlds.com/index.php?title=2001_Cy_Awards
-    "ActiveWiki - 2002 Cy Awards" http://wiki.activeworlds.com/index.php?title=2002_Cy_Awards
-    "ActiveWiki - 2004 Cy Awards" http://wiki.activeworlds.com/index.php?title=2004_Cy_Awards
-    "ActiveWiki - 2006 Cy Awards" http://wiki.activeworlds.com/index.php?title=2006_Cy_Awards
-    "ActiveWiki - 2007 Cy Awards" http://wiki.activeworlds.com/index.php?title=2007_Cy_Awards
-    "ActiveWiki - 2008 Cy Awards" http://wiki.activeworlds.com/index.php?title=2008_Cy_Awards
-    "ActiveWiki - 2009 Cy Awards" http://wiki.activeworlds.com/index.php?title=2009_Cy_Awards
-    "ActiveWiki - 2010 Cy Awards" http://wiki.activeworlds.com/index.php?title=2010_Cy_Awards
-  endtopic
-  topic "CyAwards World Teleports"
-    "Teleport - Cyawards Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
-    "Teleport - Cinema Complex - 20s 23w" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_20s_23w
-    "Teleport - Cy Awards Ballroom - 26s 0e" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_26s_0e
-    "Teleport - Cy Awards Historical Area - 27s 17e" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_27s_17e
-    "Teleport - Lounge - 8n 24w" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_8n_24w
-    "Teleport - Observation Tower - 22s 8e" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_22s_8e
-    "Teleport - Theater - 25n 0w" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_25n_0w
-  endtopic
-    "Official Website" http://www.cyawards.com/
-    "AW Forums - Cy Awards" http://forums.activeworlds.com/forumdisplay.php?f=96
-    "Teleport - Cyawards" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
-endtopic
-topic "AWPortals Site Map"
-  "AWPortals Front Page" http://www.awportals.com/default.php
-  "AWportals Chronicles" http://www.awportals.com/articles/
-  "AWPortals Events Calendar" http://www.awportals.com/events/index.php
-  "AWPortals World Hosting" http://www.awportals.com/products/world_hosting.php
-  "AWPortals World Servers" http://www.awportals.com/products/world_servers.php
-  "Bots Guide" http://www.awportals.com/the_guide/bots.php
-  "Services Guide" http://www.awportals.com/the_guide/services.php
-  "Universe Spy" http://www.awportals.com/archives/charts/charts.php
-  "Worlds Database" http://www.awportals.com/db/worlds/
-  topic "Active Worlds Information Pages"
-     "AWPortals - How to Walk" http://www.awportals.com/sidebar/tutorial.php
-     "AWPortals - Learn to Fly" http://www.awportals.com/sidebar/tutorial.php?page=ps_flying
-     "AWPortals - Learn to Shift through Objects" http://www.awportals.com/sidebar/tutorial.php?page=ps_shifting
-     "AWPortals - Learn to Change your Avatar" http://www.awportals.com/sidebar/tutorial.php?page=ps_avatar
-     "AWPortals - Learn to change your View" http://www.awportals.com/sidebar/tutorial.php?page=ps_view
-     "AWPortals - Learn to Teleport" http://www.awportals.com/sidebar/tutorial.php?page=ps_teleport
-     "AWPortals - Learn about Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worlds
-     "AWPortals - Learn to travel across the Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worldhop
-     "AWPortals - Guide to Custom Avatars" http://www.awportals.com/the_guide/cavs.php
-  topic "World Chat and Logs"
-    "AW Live" http://www.awportals.com/archives/logs/live_aw.php
-    "AWGate Live" http://www.awportals.com/archives/logs/live_awgate.php
-    "SW City Live" http://www.awportals.com/archives/logs/live_swcity.php
-    "AWPortals - Logs" http://www.awportals.com/archives/logs/
-  endtopic
-  topic "Object Path Search"
-    "Alphaworld" http://www.awportals.com/opsearch/aw.php
-    "AWTeen" http://www.awportals.com/opsearch/awteen.php
-    "Megapath" http://www.awportals.com/opsearch/megapath.php
-  endtopic
-  endtopic
 endtopic
 topic "SW City Network"
   topic "Scarabian Republic Forums"
@@ -357,6 +171,82 @@ topic "SW City Network"
 "SW City - Index" http://www.swcity.net/index.php
 "SWiki - History" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.SWCityHistory
 "Teleport - SW City Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2217.397s_3609.8e_-0.2a_180
+endtopic
+topic "Historical Community Sites"
+  topic "Cy Awards"
+    topic "Info: The Cy Awards are an annual awards ceremony that draw hundreds of users for a night of celebration."
+    endtopic
+    topic "Info: Held in CyAwards world, awards for a variety of categories are selected through community nomination and voting."
+    endtopic
+    topic "History of Past Ceremonies"
+      topic "Info: Click below for a write-up of each ceremony!"
+      endtopic
+      "ActiveWiki - 1998 Cy Awards (May)" http://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(May)
+      "ActiveWiki - 1998 Cy Awards (September)" http://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(September)
+      "ActiveWiki - 1999 Cy AWards (January)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(January)
+      "ActiveWiki - 1999 Cy Awards (June)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(June)
+      "ActiveWiki - 1999 Cy Awards (October)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(October)
+      "ActiveWiki - 2000 Cy Awards (January)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(January)
+      "ActiveWiki - 2000 Cy Awards (April)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(April)
+      "ActiveWiki - 2000 Cy Awards (September)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(September)
+      "ActiveWiki - 2001 Cy Awards" http://wiki.activeworlds.com/index.php?title=2001_Cy_Awards
+      "ActiveWiki - 2002 Cy Awards" http://wiki.activeworlds.com/index.php?title=2002_Cy_Awards
+      "ActiveWiki - 2004 Cy Awards" http://wiki.activeworlds.com/index.php?title=2004_Cy_Awards
+      "ActiveWiki - 2006 Cy Awards" http://wiki.activeworlds.com/index.php?title=2006_Cy_Awards
+      "ActiveWiki - 2007 Cy Awards" http://wiki.activeworlds.com/index.php?title=2007_Cy_Awards
+      "ActiveWiki - 2008 Cy Awards" http://wiki.activeworlds.com/index.php?title=2008_Cy_Awards
+      "ActiveWiki - 2009 Cy Awards" http://wiki.activeworlds.com/index.php?title=2009_Cy_Awards
+      "ActiveWiki - 2010 Cy Awards" http://wiki.activeworlds.com/index.php?title=2010_Cy_Awards
+      "ActiveWiki - 2014 Cy Awards" http://wiki.activeworlds.com/index.php?title=2014_Cy_Awards
+    endtopic
+    topic "CyAwards World Teleports"
+      "Teleport - Cyawards Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
+      "Teleport - Cinema Complex - 20s 23w" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_20s_23w
+      "Teleport - Cy Awards Ballroom - 26s 0e" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_26s_0e
+      "Teleport - Cy Awards Historical Area - 27s 17e" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_27s_17e
+      "Teleport - Lounge - 8n 24w" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_8n_24w
+      "Teleport - Observation Tower - 22s 8e" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_22s_8e
+      "Teleport - Theater - 25n 0w" http://objects.activeworlds.com/cgi-bin/teleport.cgi?cyawards_25n_0w
+    endtopic
+      "Official Website" http://www.cyawards.com/
+      "AW Forums - Cy Awards" http://forums.activeworlds.com/forumdisplay.php?f=96
+      "Teleport - Cyawards" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
+  endtopic
+  topic "AWPortals Site Map"
+    topic "Info: AWPortals was a popular community portal maintained by Mark Randall. The site has been in read-only mode since 2019."
+    endtopic  
+    "AWPortals Front Page" http://www.awportals.com/default.php
+    "AWportals Chronicles" http://www.awportals.com/articles/
+    "AWPortals Events Calendar" http://www.awportals.com/events/index.php
+    "AWPortals World Hosting" http://www.awportals.com/products/world_hosting.php
+    "AWPortals World Servers" http://www.awportals.com/products/world_servers.php
+    "Bots Guide" http://www.awportals.com/the_guide/bots.php
+    "Services Guide" http://www.awportals.com/the_guide/services.php
+    "Universe Spy" http://www.awportals.com/archives/charts/charts.php
+    "Worlds Database" http://www.awportals.com/db/worlds/
+    topic "Active Worlds Information Pages"
+      "AWPortals - How to Walk" http://www.awportals.com/sidebar/tutorial.php
+      "AWPortals - Learn to Fly" http://www.awportals.com/sidebar/tutorial.php?page=ps_flying
+      "AWPortals - Learn to Shift through Objects" http://www.awportals.com/sidebar/tutorial.php?page=ps_shifting
+      "AWPortals - Learn to Change your Avatar" http://www.awportals.com/sidebar/tutorial.php?page=ps_avatar
+      "AWPortals - Learn to change your View" http://www.awportals.com/sidebar/tutorial.php?page=ps_view
+      "AWPortals - Learn to Teleport" http://www.awportals.com/sidebar/tutorial.php?page=ps_teleport
+      "AWPortals - Learn about Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worlds
+      "AWPortals - Learn to travel across the Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worldhop
+      "AWPortals - Guide to Custom Avatars" http://www.awportals.com/the_guide/cavs.php
+    topic "World Chat and Logs"
+      "AW Live" http://www.awportals.com/archives/logs/live_aw.php
+      "AWGate Live" http://www.awportals.com/archives/logs/live_awgate.php
+      "SW City Live" http://www.awportals.com/archives/logs/live_swcity.php
+      "AWPortals - Logs" http://www.awportals.com/archives/logs/
+    endtopic
+    topic "Object Path Search"
+      "Alphaworld" http://www.awportals.com/opsearch/aw.php
+      "AWTeen" http://www.awportals.com/opsearch/awteen.php
+      "Megapath" http://www.awportals.com/opsearch/megapath.php
+    endtopic
+    endtopic
+  endtopic
 endtopic
 topic "——————————————————————————————"
 endtopic
@@ -1326,9 +1216,8 @@ topic "Ultimate Teleports List"
   topic "--------------------------------------------------"
   endtopic
   topic "AWTeen"
-  topic "Leaders: Frosta, GC, NurseMom, Ryan, Shli, Nina Taru, GSK"
   endtopic
-  topic "Information: A popular public building world.  V4 building open to all."
+  topic "Information: A popular public building world. Currently archived."
   endtopic
   "Homepage" http://awteen.us/
   "AWPortals - AWTeen" http://awportals.com/sidebar/awteen.php
@@ -1400,7 +1289,6 @@ topic "Ultimate Teleports List"
   topic "--------------------------------------------------"
   endtopic
   topic "Yellow"
-    topic "Leaders: Digigurl and Dr. Squailboont"
     endtopic
     topic "Info: Founded in 1995 by COF.  Reformed in 2007 by Digigurl and Squailboont."
     endtopic
@@ -1436,7 +1324,6 @@ topic "Ultimate Teleports List"
   topic "--------------------------------------------------"
   endtopic
   topic "Winter"
-    topic "Leaders - MaxPoly"
     endtopic
     "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Winter
     "Wiki" http://wiki.activeworlds.com/index.php?title=Winter

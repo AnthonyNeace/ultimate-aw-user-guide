@@ -16,10 +16,10 @@ The Ultimate AW User Guide won a Cy Award on November 13, 2010 for Best Bot/Soft
 The AW User Guide is configured, by default, in plaintext at the client at:
 
 ```powershell 
-C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help\default.awh`
+C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help\default.awh
 ```
 
-This path may vary if you installed ActiveWorlds outside of the default installation path.
+Simply clone this repository and run `.\install.ps1` in this directory to copy the Ultimate AW User Guide into the ActiveWorlds Help directory.
 
 ### Troubleshooting
 
