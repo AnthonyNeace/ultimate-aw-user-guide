@@ -110,57 +110,12 @@ endtopic
 topic "Active Worlds Version 7.0"
   "ActiveWiki - New Features in Active Worlds 7.0" http://wiki.activeworlds.com/index.php?title=7.0
 endtopic
-topic "Welcome to Active Worlds! (New users start here!)"
-  topic "TIP: Click the + to open folders and navigate this user guide!"
-  endtopic
-  "Welcome to Active Worlds" welcome
-   "How do I Get Started?" get_started
-   "How do I Register?" registration
-    "Search the User Guide" search/
-   "Additional Online Support" http://www.activeworlds.com/tech/
-  topic "TIP: Read the links within to learn how to move and interact in Active Worlds."
-    "AWPortals - How to Walk" http://www.awportals.com/sidebar/tutorial.php
-   "AWPortals - Learn to Fly" http://www.awportals.com/sidebar/tutorial.php?page=ps_flying
-   "AWPortals - Learn to Shift through Objects" http://www.awportals.com/sidebar/tutorial.php?page=ps_shifting
-   "AWPortals - Learn to Change your Avatar" http://www.awportals.com/sidebar/tutorial.php?page=ps_avatar
-   "AWPortals - Learn to change your View" http://www.awportals.com/sidebar/tutorial.php?page=ps_view
-   "AWPortals - Learn to Teleport" http://www.awportals.com/sidebar/tutorial.php?page=ps_teleport
-   "AWPortals - Learn about Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worlds
-   "AWPortals - Learn to travel across the Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worldhop
-   "AWPortals - Guide to Custom Avatars" http://www.awportals.com/the_guide/cavs.php
-  endtopic
-endtopic
 topic "Staying Connected in the Active Worlds Universe"
-"AWPortals - Community Events Calendar" http://awportals.com/events
 "ActiveWiki" http://wiki.activeworlds.com
 "ActiveWiki - Glossary of Terms" http://wiki.activeworlds.com/index.php?title=Glossary
 "Active Worlds Community" http://awcommunity.org/
 "Active Worlds Forums" http://forums.activeworlds.com 
 "Active Worlds Monthly Newsletter" http://activeworlds.com/newsletter
-  topic "Active Worlds Monthly Newsletter - October's Sights To See"
-  "Delight" http://objects.activeworlds.com/cgi-bin/teleport.cgi?delight
-  "Earwax" http://objects.activeworlds.com/cgi-bin/teleport.cgi?earwax
-  "Glitter" http://objects.activeworlds.com/cgi-bin/teleport.cgi?glitter
-  "Haunted Mansion" http://objects.activeworlds.com/cgi-bin/teleport.cgi?rides4us_19s_0w
-  "Vapir" http://objects.activeworlds.com/cgi-bin/teleport.cgi?vapir
-    topic "Archived Sights To See"
-    "EBTS" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awebts_3
-    "Lune" http://objects.activeworlds.com/cgi-bin/teleport.cgi?lune
-    "Shimmer" http://objects.activeworlds.com/cgi-bin/teleport.cgi?shimmer
-    "Helen" http://objects.activeworlds.com/cgi-bin/teleport.cgi?helen
-    "RedRoses" http://objects.activeworlds.com/cgi-bin/teleport.cgi?redroses
-    "YouTopia" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Youtopia
-    "LivEasy" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Liveasy
-    "Alena" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Alena
-    "ZAGZ" http://objects.activeworlds.com/cgi-bin/teleport.cgi?ZAGZ
-    "Reflect" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Reflect
-    "Yooper" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Yooper
-    "Skunkwks" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Skunkwks
-    "Mars Central" http://objects.activeworlds.com/cgi-bin/teleport.cgi?mars_526n_191w
-    "Ludus" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Ludus
-    "Helen" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Helen
-    endtopic
-  endtopic
 endtopic
 topic "——————————————————————————————"
 endtopic
