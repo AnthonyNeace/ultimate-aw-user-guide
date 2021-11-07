@@ -22,7 +22,8 @@ This path may vary if you installed ActiveWorlds outside of the default installa
 
 #### The User Guide is Blank in ActiveWorlds
 
-Check the `default.awh` file encoding.  ActiveWorlds expects the User Guide to be encoded as `UTF-16 LE`.  Other encodings such as `UTF-8` are confirmed to cause the user guide tab to load blank.
+* Check the `default.awh` file encoding.  ActiveWorlds expects the User Guide to be encoded as `UTF-16 LE BOM`.  Other encodings such as `UTF-8` are confirmed to cause the user guide tab to load blank.
+* Check that all `topic` lines are terminated with a matching `endtopic` line.  Any topics left hanging may not render correctly.
 
 ### Older Versions
 
