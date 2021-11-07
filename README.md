@@ -10,11 +10,19 @@ The Ultimate AW User Guide won a Cy Award on November 13, 2010 for Best Bot/Soft
 
 ### Installation
 
-The Default.AWH file should be moved to...
+The AW User Guide is configured, by default, in plaintext at the client at:
 
-    `"C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help`
+```powershell 
+C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help\default.awh`
+```
 
-...and replace the existing default.awh file.  You may rename the existing file 'defaultbackup' if you want to preserve it.  ActiveWorlds will need to be restarted for this to take effect.
+This path may vary if you installed ActiveWorlds outside of the default installation path.
+
+### Troubleshooting
+
+#### The User Guide is Blank in ActiveWorlds
+
+Check the `default.awh` file encoding.  ActiveWorlds expects the User Guide to be encoded as `UTF-16 LE`.  Other encodings such as `UTF-8` are confirmed to cause the user guide tab to load blank.
 
 ### Older Versions
 
