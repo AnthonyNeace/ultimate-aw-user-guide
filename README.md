@@ -3,7 +3,7 @@ ultimate-aw-user-guide
 
 ![Screenshot of the User Guide in ActiveWorlds](guide.png "Ultimate AW User Guide in ActiveWorlds")
 
-This repository hosts the Ultimate AW User Guide, a community-maintained modification of the pre-installed User Guide in the [ActiveWorlds](https://www.activeworlds.com/index.html) virtual worlds software.
+This repository hosts the Ultimate AW User Guide, a community-maintained modification of the pre-installed User Guide in the [ActiveWorlds](https://www.activeworlds.com) virtual worlds software.
 
 The Ultimate AW User Guide is a modification made to the official AW User Guide which enhances it by adding newer, more relevant categories and new features such as wiki inclusion and a comprehensive teleports list. 
 
