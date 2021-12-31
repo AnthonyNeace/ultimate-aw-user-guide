@@ -356,42 +356,38 @@ topic "The Ultimate Guide to Bots and the SDK"
   topic "B. Public Use Bots"
     topic "1. Single-purpose Bots"
       "Absolute Monarch - AbMo Phonebot" http://academy.swcity.net/index.php?n=Main.AbMoPhonebot
-      "Andras - AdminBot" http://www.andras.net/tools.html#adminbot
-      "Andras - CrowdBot" http://www.andras.net/crowdbot.html
-      "Andras - GuardBot" http://www.andras.net/guardbot.html
-      "Andras - Hunt Helper Bot" http://www.andras.net/huntbot.html
-      "Andras - SyntaxBot" http://www.andras.net/tools.html#syntaxbot
-      "Andras - World Monitor Bot" http://www.andras.net/chkworld.html
-      "AW - Ablivion DJ" http://www.ablivion.net/abliviondj/
+      "Andras - AdminBot" https://web.archive.org/web/20121102040952if_/http://www.andras.net/tools.html#adminbot
+      "Andras - CrowdBot" https://web.archive.org/web/20111228071620if_/http://www.andras.net/crowdbot.html
+      "Andras - GuardBot" https://web.archive.org/web/20121102040952/http://www.andras.net/tools.html
+      "Andras - Hunt Helper Bot" https://web.archive.org/web/20121102040952/http://www.andras.net/tools.html
+      "Andras - SyntaxBot" https://web.archive.org/web/20121102040952if_/http://www.andras.net/tools.html#syntaxbot
+      "Andras - World Monitor Bot" https://web.archive.org/web/20120502154127/http://www.andras.net/chkworld.html
+      "AW - Ablivion DJ" https://web.archive.org/web/20090515140858/http://www.ablivion.net/abliviondj/
       "Dr. Squailboont - Demeter2" http://squailboont.info/demeter2/
       "Dr. Squailboont - Hermes" http://squailboont.info/hermes/
       "DM Mercury - Flybot" http://forums.activeworlds.com/showthread.php?t=7814
       "Magine - AW Alice" http://www.turtleflight.com/magine/mb.html
-      "Mr Brain - Terrain Manipulation Bot" http://www.andras.net/berrain/berrain.html
-      "ImaBots - BallBot" http://www.imabot.com/index2.htm
-      "ImaBots - BirdBot" http://www.imabot.com/index2.htm
-      "ImaBots - ChatBot" http://www.imabot.com/index2.htm
-      "ImaBots - Nestor" http://www.imabot.com/index2.htm
-      "ImaBots - SeedBot" http://www.imabot.com/index2.htm
-      "Talisan - AtBot" http://www.myawo.com/atbot-help.php
+      "Mr Brain - Terrain Manipulation Bot" https://web.archive.org/web/20120401143145/http://www.andras.net/berrain/berrain.html
+      "ImaBots - BallBot" http://www.imabot.com/ballbot.htm
+      "ImaBots - BirdBot" http://www.imabot.com/birdbot.htm
+      "ImaBots - ChatBot" http://www.imabot.com/chatbot.htm
+      "ImaBots - Nestor" http://www.imabot.com/nestor.htm
+      "ImaBots - SeedBot" http://www.imabot.com/seedbot.htm
+      "Talisan - AtBot" https://web.archive.org/web/20081211114832/http://www.myawo.com/atbot-help.php
     endtopic
     topic "2. Multi-purpose Bots"
-      "Alex Grigny - Xelagot" http://www.imatowns.com/xelagot/
-      "Andras - YASBB" http://www.andras.net/yasbb.html
+      "Alex Grigny - Xelagot" http://www.imatowns.com/xelagot/index.html
+      "Andras - YASBB" https://web.archive.org/web/20111231013715/http://www.andras.net/yasbb.html
       "ImaBots - Preston" http://www.imabot.com/preston.htm
-      "HamFon/Talisan - HamBot" http://www.myawo.com/hambot-help.php
+      "HamFon/Talisan - HamBot" https://web.archive.org/web/20091023171017/http://www.myawo.com/hambot-help.php
       "Magine - MagsBot" http://www.turtleflight.com/magine/mb.html
-      "Magine - RPGBot II" http://turtleflight.com/BBS/viewtopic.php?f=20&t=324
-      "Mark Randall - Eclipse Evolution" http://www.awportals.com/products/eclipse/
+      "Magine - RPGBot II" http://www.turtleflight.com/magine/mb.html
+      "Mark Randall - Eclipse Evolution" https://web.archive.org/web/20150703031131/http://www.awportals.com/products/eclipse/
     endtopic
   endtopic
   "ActiveWiki - Bots" http://wiki.activeworlds.com/index.php?title=Bots
   "ActiveWiki - SDK" http://wiki.activeworlds.com/index.php?title=SDK
-  "AW Forums - AWSDK" http://forums.activeworlds.com/forumdisplay.php?f=12
-  "AW Forums - Bots" http://forums.activeworlds.com/forumdisplay.php?f=13
-  "AW Forums - Scripting" http://forums.activeworlds.com/forumdisplay.php?f=16
-  "AW Forums - C, C++, VB" http://forums.activeworlds.com/forumdisplay.php?f=17
-  "AW Forums - 3rd Party SDK Wrappers" http://forums.activeworlds.com/forumdisplay.php?f=86
+  "AW Forums - Coding" http://forums.activeworlds.com/list.php?12
 endtopic
 
 topic "The Ultimate Guide to Building"
