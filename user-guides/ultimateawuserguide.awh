@@ -342,7 +342,14 @@ topic "The Ultimate Guide to Bots and the SDK"
     "Sample Program - Simple DJBot" http://www.activeworlds.com/sdk/sample2.htm
     "Sample Program - QueryBot" http://web.archive.org/web/20060813043600/http://awprogrammer.com/
     endtopic
-    topic "2. Reference"
+    topic "2. Wrappers"
+      ".NET (Byte)" https://github.com/Bloyteg/AW.SDK.Core
+      ".NET (2021 Fork)" https://github.com/brandonavant/AW.SDK.Core
+      "AutoIt" https://github.com/locodarwin/AWSDK-For-AutoIt
+      "Python" https://github.com/Korth-Spirit/Korth-Spirit
+      "VB" https://activeworlds.com/sdk/vb/
+    endtopic
+    topic "3. Reference"
       "Attributes" http://wiki.activeworlds.com/index.php?title=Attribute
       "Data Structures" http://wiki.activeworlds.com/index.php?title=List_of_SDK_Data_Structures
       "Events" http://wiki.activeworlds.com/index.php?title=Category:SDK_Events
