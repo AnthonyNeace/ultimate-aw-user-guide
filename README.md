@@ -21,6 +21,12 @@ C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help\default.awh
 
 Simply clone this repository and run `.\install.ps1` in this directory to copy the Ultimate AW User Guide into the ActiveWorlds Help directory.
 
+### Contributions
+
+This repository is accepting pull requests for any ActiveWorlds-related content that would be appropriate for the User Guide, to the discretion of the maintainers. Edit in VS Code for best experience.
+
+Please test your changes prior to submitting a PR by simply launching the ActiveWorlds browser with your changes and observing that they work as expected.
+
 ### Troubleshooting
 
 #### The User Guide is Blank in ActiveWorlds
