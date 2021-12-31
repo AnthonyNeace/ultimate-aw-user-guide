@@ -123,55 +123,55 @@ topic "————————————————————————�
 endtopic
 topic "SW City Network"
   topic "Scarabian Republic Forums"
-    "Index" http://www.swcity.net/yabbse/index.php
-    "SW City Community" http://www.swcity.net/yabbse/index.php?board=1.0
-    "Announcements" http://www.swcity.net/yabbse/index.php?board=52.0
-    "New or Upcoming Projects" http://www.swcity.net/yabbse/index.php?board=3.0
-    "Active Worlds Discussion" http://www.swcity.net/yabbse/index.php?board=37.0
-    "General Discussion" http://www.swcity.net/yabbse/index.php?board=5.0
+    "Index" https://www.swcity.net/yabbse/index.php
+    "SW City Community" https://www.swcity.net/yabbse/index.php?board=1.0
+    "Announcements" https://www.swcity.net/yabbse/index.php?board=52.0
+    "New or Upcoming Projects" https://www.swcity.net/yabbse/index.php?board=3.0
+    "Active Worlds Discussion" https://www.swcity.net/yabbse/index.php?board=37.0
+    "General Discussion" https://www.swcity.net/yabbse/index.php?board=5.0
   endtopic
   topic "SW City Builders Academy"
     "Index" http://academy.swcity.net/
     "AbMo Phonebot" http://academy.swcity.net/index.php?n=Main.AbMoPhonebot
     "Articles" http://academy.swcity.net/index.php?n=Main.ArticleDirectory
     "Building Directory" http://academy.swcity.net/index.php?n=Main.BuildingDirectory
-    "Download AWG Pack" http://www.swcity.net/academy/awg/awg_pack.zip
+    "Download AWG Pack" https://www.swcity.net/academy/awg/awg_pack.zip
     "Download Directory" http://academy.swcity.net/index.php?n=Main.DownloadDirectory
     "Guide Directory" http://academy.swcity.net/index.php?n=Main.GuideDirectory
     "Resource Directory" http://academy.swcity.net/index.php?n=Main.ResourceDirectory
     "Robbie's Sign Generator" http://academy.swcity.net/index.php?n=Main.RobbiesSignGenerator
   endtopic
   topic "SW City Interactive"
-    "Interactive Character Generator" http://www.swcity.net/npc/character_generator/
-    "Interactive Index" http://www.swcity.net/www/interactive.php
-    "Interactive Memberlist" http://www.swcity.net/www/interactive-memberlist.php
-    "Mango QuestBook+" http://www.swcity.net/npc/sut.php
-    "Switter Feed" http://www.swcity.net/www/interactive-switter.php
-    "Scoreboard" http://www.swcity.net/www/interactive-scoreboard.php
-    "Neighborhoods" http://www.swcity.net/www/interactive-neighborhoods.php
+    "Interactive Character Generator" https://www.swcity.net/npc/character_generator/
+    "Interactive Index" https://www.swcity.net/www/interactive.php
+    "Interactive Memberlist" https://www.swcity.net/www/interactive-memberlist.php
+    "Mango QuestBook+" https://www.swcity.net/npc/sut.php
+    "Switter Feed" https://www.swcity.net/www/interactive-switter.php
+    "Scoreboard" https://www.swcity.net/www/interactive-scoreboard.php
+    "Neighborhoods" https://www.swcity.net/www/interactive-neighborhoods.php
   endtopic
   topic "SW City Encyclopedia"
-    "Index" http://www.swcity.net/pmwiki/pmwiki.php
-    "Fauna & Flora Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.FaunaDirectory
-    "Geography Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.GeographyDirectory
-    "History Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.HistoryDirectory
-    "Organizations Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.CorporationsDirectory
-    "People Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.PeopleDirectory
-    "Political Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.PoliticalDirectory
-    "Races Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.RacesDirectory
-    "Misc. Articles Directory" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.MiscDirectory
-    "SWiki - Alphaworld" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Alphaworld
-    "SWiki - Lore Timeline" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Timeline
-    "SWiki - Nimbusians" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Nimbusians
-    "SWiki - Subminians" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Subminians
-    "SWiki - SW City" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.SWCity
-    "SWiki - SW City Charter" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Charter
-    "Swiki - Town Square Park" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.TownSquarePark
+    "Index" https://www.swcity.net/pmwiki/pmwiki.php
+    "Fauna & Flora Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.FaunaDirectory
+    "Geography Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.GeographyDirectory
+    "History Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.HistoryDirectory
+    "Organizations Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.CorporationsDirectory
+    "People Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.PeopleDirectory
+    "Political Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.PoliticalDirectory
+    "Races Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.RacesDirectory
+    "Misc. Articles Directory" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.MiscDirectory
+    "SWiki - Alphaworld" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Alphaworld
+    "SWiki - Lore Timeline" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Timeline
+    "SWiki - Nimbusians" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Nimbusians
+    "SWiki - Subminians" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Subminians
+    "SWiki - SW City" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.SWCity
+    "SWiki - SW City Charter" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Charter
+    "Swiki - Town Square Park" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.TownSquarePark
   endtopic
-"SW City - Acquire Property" http://www.swcity.net/www/property.php
-"SW City - Alphaworld Enhanced" http://www.swcity.net/www/awe.php
-"SW City - Index" http://www.swcity.net/index.php
-"SWiki - History" http://www.swcity.net/pmwiki/pmwiki.php?n=SWC.SWCityHistory
+"SW City - Acquire Property" https://www.swcity.net/www/property.php
+"SW City - Alphaworld Enhanced" https://www.swcity.net/www/awe.php
+"SW City - Index" https://www.swcity.net/index.php
+"SWiki - History" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.SWCityHistory
 "Teleport - SW City Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2217.397s_3609.8e_-0.2a_180
 endtopic
 topic "Historical Community Sites"
@@ -541,7 +541,7 @@ topic "The Ultimate Guide to Building"
     "SW city Builders Academy - Self-illuminating objects" http://academy.swcity.net/index.php?n=Main.Self-illuminatingObjects
     "SW City Builders Academy - Structural Integrity" http://academy.swcity.net/index.php?n=Main.StructuralIntegrity
     "SW City Builders Academy - Texture Darkening" http://academy.swcity.net/index.php?n=Main.TextureDarkening
-    "SW City Forums - Realistic Roads" http://www.swcity.net/yabbse/index.php?topic=3440.0
+    "SW City Forums - Realistic Roads" https://www.swcity.net/yabbse/index.php?topic=3440.0
     "Teleport - AWSchool Mirror Tutorial" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awschool_54.77S_96.08E_0.00a_272
   endtopic
   topic "--------------------------------------------------"
@@ -627,7 +627,7 @@ topic "The Ultimate Guide to Activities and Gaming"
       "Alphaworld - AWIA Adventure Game" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2097.2s_3731.579e_-0.3a_34
       "Alphaworld - Critter Park" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_6085.14N_3032.73W_-0.01a_87
       "Alphaworld - Faldon" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2345.5s_3625.2e_0a_0
-      "Alphaworld - Grimmwood Forest" http://www.swcity.net/tport.php?AW_2328.36S_3986.58E_0.44a_90
+      "Alphaworld - Grimmwood Forest" https://www.swcity.net/tport.php?AW_2328.36S_3986.58E_0.44a_90
       "Alphaworld - Lensmans Teleport Maze" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_4000n_10000e
       "Alphaworld - Large Maze" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_3534.62N_16161.25E_0.0a_70
       "AWTeen - Spiral Glacier" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_246s_2981w_1.5a_240
@@ -741,10 +741,10 @@ topic "The Ultimate Guide to Activities and Gaming"
       topic "SW City Interactive" (Tourist Enabled)
         "Teleport - SW City Interactive HQ" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2211.863s_3615.48e_1.9a_0
         "Teleport - AirSpeed" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2417.739s_3444.938e_222.6a_238
-        "Interactive Index" http://www.swcity.net/www/interactive.php
-        "Mango QuestBook+" http://www.swcity.net/npc/sut.php
-        "SW City Community Forum" http://www.swcity.net/yabbse/index.php?board=1.0
-        "Switter Feed" http://www.swcity.net/www/interactive-switter.php
+        "Interactive Index" https://www.swcity.net/www/interactive.php
+        "Mango QuestBook+" https://www.swcity.net/npc/sut.php
+        "SW City Community Forum" https://www.swcity.net/yabbse/index.php?board=1.0
+        "Switter Feed" https://www.swcity.net/www/interactive-switter.php
       endtopic
       topic "VR Farm"
         "Teleport - VR Farm" http://objects.activeworlds.com/cgi-bin/teleport.cgi?vr_farm
@@ -903,7 +903,7 @@ topic "Ultimate Teleports List"
   topic "Info: Oldest world in the Active Worlds Universe. Founded in 1995.  Patrolled by the Peacekeepers." 
   endtopic
   "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2000n_7000e_0a_0
-  "Alphaworld Enhanced (Graphical Mod)" http://www.swcity.net/www/awe.php
+  "Alphaworld Enhanced (Graphical Mod)" https://www.swcity.net/www/awe.php
   "Homepage" http://awportals.com/sidebar/aw.php?view=places
   "OP Search" http://awportals.com/opsearch/aw.php
   "Pamozo Island (v4 Rights)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2088.11s_4073.11e_0.131a_0
@@ -998,7 +998,7 @@ topic "Ultimate Teleports List"
         endtopic
         topic "Information: Founded in 1999. Largest city in Active Worlds."
         endtopic
-        "Website: http://www.swcity.net" http://www.swcity.net
+        "Website: https://www.swcity.net" https://www.swcity.net
         "Forums: http://www.forum.swcity.net" http://www.forum.swcity.net
         "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2218s_3610e
         topic "SW City Building Areas"
@@ -1014,7 +1014,7 @@ topic "Ultimate Teleports List"
             endtopic
             topic "Information: Contact Ferruccio or SW Chris for a lot."
             endtopic
-            "Castle Pines" http://www.swcity.net/tport.php?aw_1654.37S_3810.66E_270
+            "Castle Pines" https://www.swcity.net/tport.php?aw_1654.37S_3810.66E_270
           endtopic
           topic "Rising Glen Retreat (Wilderness Themed)"
             topic "Information: A large, wilderness-themed neighborhood. Managed by Hyper Anthony.  Lots available for each noted skill level."
@@ -1048,20 +1048,20 @@ topic "Ultimate Teleports List"
             "Castle Pines" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1655S_3805.6E
             "City Hall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2291s_3670e_0a_0
             "Clandestine Village" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2314S_4000E_0.23a_207
-            "East Ending" http://www.swcity.net/tport.php?AW_1663S_4787.3E 
+            "East Ending" https://www.swcity.net/tport.php?AW_1663S_4787.3E 
             "Faldon (SWI Hub)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2345.5s_3625.2e_0a_0
             "Fort Masen" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2439s_3635e_0a_0
-            "Grimmwood Forest" http://www.swcity.net/tport.php?AW_2328.36S_3986.58E_0.44a_90
-            "Huru Isle (No District|SW Comit)" http://www.swcity.net/tport.php?AW_2602S_5109.4E_0.11a_280
+            "Grimmwood Forest" https://www.swcity.net/tport.php?AW_2328.36S_3986.58E_0.44a_90
+            "Huru Isle (No District|SW Comit)" https://www.swcity.net/tport.php?AW_2602S_5109.4E_0.11a_280
             "Kings Ravine" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2360.58S_3956.09E_3.45a_273 
             "Kithicor Forest" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2339s_3849e_0.074a_0
             "Mango Land" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2077s_3567e_0.3a
             "Mazenda Mines" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2466.5s_3618.8e_0a_0
             "Mondary Village" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1486.8s_4682.7e_0.015a_0
-            "Norlisk Island (No district|SW Comit)" http://www.swcity.net/tport.php?AW_2809S_5599.6E_0.15a_90
+            "Norlisk Island (No district|SW Comit)" https://www.swcity.net/tport.php?AW_2809S_5599.6E_0.15a_90
             "Pyramid Place" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1739.84s_3771.33e_0a_177
             "Ruins of the Imperial Palace" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2227.631s_3609.233e_5.0a_193
-            "Rotheran Housing District" http://www.swcity.net/tport.php?aw_1700S_4741.5E_90
+            "Rotheran Housing District" https://www.swcity.net/tport.php?aw_1700S_4741.5E_90
             "Scrayil Mine" http://objects.activeworlds.com/cgi-bin/teleport.cgi?AW_2250s_3610.5e_180
             "Spaceship Apartments (Ferruccio)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2202.04s_3548.27e_0a_270
             "Sharman Caves - Lava Fields" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1639s_4689e_-14.5a_0
@@ -1076,15 +1076,15 @@ topic "Ultimate Teleports List"
             topic "Managers: Syntax, Onilink"
             endtopic
             "AWIA Adventure Game (SWI)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2097.2s_3731.579e_-0.3a_34
-            "Carshall Tip" http://www.swcity.net/tport.php?AW_1456.9S_3671.9E_260
+            "Carshall Tip" https://www.swcity.net/tport.php?AW_1456.9S_3671.9E_260
             "Cirrus Street" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2131.97s_0w_0a_80
             "Club Cyberdome" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2062.79s_3671.52e_0a_50
             "Cloudpoint" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2146s_3873e_8a_180
-            "Dratisi Island" http://www.swcity.net/tport.php?aw_1892s_3921e1892s
+            "Dratisi Island" https://www.swcity.net/tport.php?aw_1892s_3921e1892s
             "Gutz Island" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2215s_4096e_0a_0
-            "Ilexus Caves" http://www.swcity.net/tport.php?aw_2071S_3941E
+            "Ilexus Caves" https://www.swcity.net/tport.php?aw_2071S_3941E
             "Ilexus Forest (SWI Hub)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2033.5s_3812.32e_0.002a_50
-            "Kiin Woods" http://www.swcity.net/tport.php?aw_2180S_3693E
+            "Kiin Woods" https://www.swcity.net/tport.php?aw_2180S_3693E
             "Palais de Ferruccio (CY)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2212.36s_0w_0.01a_189
             "Pamozo Island" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2088.11s_4073.11e_0.131a_0
             "Schattenhorn" http://objects.activeworlds.com/cgi-bin/teleport.cgi?AW_2224.5S_3997.6E_0.93a_270
@@ -1098,11 +1098,11 @@ topic "Ultimate Teleports List"
             endtopic
             "CMMs Mansion" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2455.75S_4119.47E_5.65a_8
             "File Island" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2451s_3744e 
-            "Hyokia Island" http://www.swcity.net/tport.php?aw_2496s_3792e_180
+            "Hyokia Island" https://www.swcity.net/tport.php?aw_2496s_3792e_180
             "Orton Strip Mall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2348.8S_3835.8E
             "Server Island" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2433s_3772e
             "USS Glory" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2629.06S_3286.35E_10.05a_89
-            "Warehouse District" http://www.swcity.net/tport.php?aw_2538s_3747e
+            "Warehouse District" https://www.swcity.net/tport.php?aw_2538s_3747e
           endtopic
           topic "River District Teleports"
             topic "Governor: SW Chris"
@@ -1111,7 +1111,7 @@ topic "Ultimate Teleports List"
             endtopic
             "AirSpeed" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2417.739s_3444.938e_222.6a_238
             "Hyrule (CY)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2368S_3448.2E_20a
-            "James River" http://www.swcity.net/tport.php?aw_2275s_3481e
+            "James River" https://www.swcity.net/tport.php?aw_2275s_3481e
             "Nimbus Land" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2341s_3467e_2.2a_0
             "Pipe Plunge" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2355.73S_3453.27E_22.45a_80
           endtopic
