@@ -149,6 +149,31 @@ topic "SW City Network"
     "Switter Feed" https://www.swcity.net/www/interactive-switter.php
     "Scoreboard" https://www.swcity.net/www/interactive-scoreboard.php
     "Neighborhoods" https://www.swcity.net/www/interactive-neighborhoods.php
+    topic "AWGs"
+      topic "Activity Packs"
+        "Chest Kit" https://www.swcity.net/academy/index.php?n=Main.ChestKit
+        "Farm Kit" https://www.swcity.net/academy/index.php?n=Main.FarmKit
+        "Fossil Kit" https://www.swcity.net/academy/index.php?n=Main.FossilKit
+      endtopic
+      topic "Characters"
+        "Bob-omb" https://www.swcity.net/academy/index.php?n=Main.Bob-omb
+        "Nimbusian" https://www.swcity.net/academy/index.php?n=Main.GenericNimbusian
+        "Subminian" https://www.swcity.net/academy/index.php?n=Main.GenericSubminian
+        "Nougat Mound" https://www.swcity.net/academy/index.php?n=Main.NougatMound
+      endtopic
+      topic "Detailing"
+        "Scarabian User Terminal (SUT)" https://www.swcity.net/academy/index.php?n=Main.ScarabianUserTerminal
+        "SWTel Payphone" https://www.swcity.net/academy/index.php?n=Main.SWTelPayphone
+      endtopic
+      topic "Vendors"
+        "Card Connection" https://www.swcity.net/academy/index.php?n=Main.CardConnectionVendor
+        "Card Wars" https://www.swcity.net/academy/index.php?n=Main.CardWarsVendor
+        "Mango a la Carte" https://www.swcity.net/academy/index.php?n=Main.MangoALaCarte
+        "Pawn Shop" https://www.swcity.net/academy/index.php?n=Main.PawnShopVendor
+        "Profile Icon" https://www.swcity.net/academy/index.php?n=Main.ProfileIconVendor
+        "Vending Machine" https://www.swcity.net/academy/index.php?n=Main.VendingMachines
+      endtopic
+    endtopic
   endtopic
   topic "SW City Encyclopedia"
     "Index" https://www.swcity.net/pmwiki/pmwiki.php
