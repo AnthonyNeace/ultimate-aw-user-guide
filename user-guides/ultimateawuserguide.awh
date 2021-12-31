@@ -966,8 +966,6 @@ topic "Ultimate Teleports List"
   endtopic
   "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2000n_7000e_0a_0
   "Alphaworld Enhanced (Graphical Mod)" https://www.swcity.net/www/awe.php
-  "Homepage" http://awportals.com/sidebar/aw.php?view=places
-  "OP Search" http://awportals.com/opsearch/aw.php
   "Pamozo Island (v4 Rights)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2088.11s_4073.11e_0.131a_0
   "World Map" http://imabot.com/alphamapper/aw/
     topic "Builds"
@@ -1525,10 +1523,7 @@ topic "Ultimate Teleports List"
   topic "AWTeen"
     topic "Information: A popular public building world. Currently archived."
     endtopic
-    "Homepage" http://awteen.us/
-    "AWPortals - AWTeen" http://awportals.com/sidebar/awteen.php
     "JAM Guides" http://awteen.us/teams/just-ask-me-guides/
-    "OP Search" http://www.awportals.com/opsearch/awteen.php
     "Wiki" http://wiki.activeworlds.com/index.php?title=Awteen
     "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_0n_0e
     topic "Builds"
