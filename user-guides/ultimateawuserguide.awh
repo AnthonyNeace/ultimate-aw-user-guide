@@ -274,6 +274,43 @@ topic "Historical Community Sites"
     endtopic
     endtopic
   endtopic
+  topic "ActiveWorlds Builder"
+    topic "Info: Activeworlds Builder was a community blog, covering contemporary events and building practices. The site launched in 2011."
+    endtopic
+    "ActiveWorlds Builder" https://awbuilder.blogspot.com/
+    topic "Commentary"
+      "From an era gone by" https://awbuilder.blogspot.com/2011/03/from-era-gone-by.html
+      "You are key to retaining newcomers" https://awbuilder.blogspot.com/2011/04/you-are-key-to-retaining-newcomers.html
+      "What should activeworlds.com represent?" https://awbuilder.blogspot.com/2011/02/closer-look-at-advertising-what-should.html
+      "Utilizing Twitter" https://awbuilder.blogspot.com/2011/03/closer-look-at-advertising-utilizing.html
+      "How do you express a 3d product in a 2d browser?" https://awbuilder.blogspot.com/2011/02/from-3d-to-2d-how-do-you-express-3d.html
+      "Is grassroots advertising the answer for Active Worlds?" https://awbuilder.blogspot.com/2011/02/got-builders.html
+      "Why do we pursue realism in the Virtual World?" https://awbuilder.blogspot.com/2011/03/why-do-we-pursue-realism-in-virtual.html
+      "Images for old friends at Sonic HQ" https://awbuilder.blogspot.com/2011/05/images-for-old-friends-at-sonic-hq.html
+      "The forums beat me to the punch!" https://awbuilder.blogspot.com/2011/02/forums-beat-me-to-punch.html
+      "My first experience in virtual reality" https://awbuilder.blogspot.com/2011/03/my-first-experience-in-virtual-reality.html
+    endtopic
+    topic "Tutorials"
+      "Screenshots in Active Worlds" https://awbuilder.blogspot.com/2011/02/browser-screenshots-in-active-worlds.html
+      "Editing the User Guide" https://awbuilder.blogspot.com/2011/02/utilities-editing-user-guide_15.html
+      "Color Commands" https://awbuilder.blogspot.com/2011/08/commands-in-wild-color.html
+      "Object Properties Box" https://awbuilder.blogspot.com/2011/03/building-object-properties-box.html
+      "Interactive Building Class" https://awbuilder.blogspot.com/2011/02/building-bytes-interactive-building.html
+      "Basic Terrain Manipulation" https://awbuilder.blogspot.com/2011/03/building-basic-terrain-manipulation.html
+      "Big board of Townbuilding" https://awbuilder.blogspot.com/2011/02/townbuilding-big-board-of-townbuilding.html
+      "ActiveWiki Navigation" https://awbuilder.blogspot.com/2011/03/tutorial-navigating-activewiki.html
+      "How to refresh images" https://awbuilder.blogspot.com/2011/06/web-how-to-refresh-images.html
+    endtopic
+    topic "Downloads"
+      "Basic Ground Zero" https://awbuilder.blogspot.com/2011/05/awg-download-basic-ground-zero.html
+      "Bus Stop" https://awbuilder.blogspot.com/2011/05/awg-download-bus-stop.html
+      "Community Pool" https://awbuilder.blogspot.com/2011/05/awg-download-community-pool.html
+      "Kingmaker Game" https://awbuilder.blogspot.com/2011/05/awg-download-kingmaker-interactive-game.html
+      "Open Air Pavilion" https://awbuilder.blogspot.com/2011/05/awg-download-open-air-pavilion.html
+      "Road Set" https://awbuilder.blogspot.com/2011/05/awg-download-primitive-road-set.html
+      "Park Bench (AWTeen)" https://awbuilder.blogspot.com/2011/05/awg-download-wooden-park-bench.html
+    endtopic
+  endtopic
 endtopic
 
 topic "——————————————————————————————"
