@@ -311,6 +311,86 @@ topic "Historical Community Sites"
       "Park Bench (AWTeen)" https://awbuilder.blogspot.com/2011/05/awg-download-wooden-park-bench.html
     endtopic
   endtopic
+  topic "Venice3D"
+    topic "Create"
+      "Using picture files in AW" http://www.venice3d.net/2013create1.html
+      "Using Voice chat" http://www.venice3d.net/2013create2.html
+      "Screenshot/Printscreen: Making pictures" http://www.venice3d.net/2013create3.html
+      "Using .ini- tweaks" http://www.venice3d.net/2013create4.html
+      "Cache and cache management" http://www.venice3d.net/2013create5.html
+      "Improving the framerate" http://www.venice3d.net/2013create6.html
+      "Object error messages" http://www.venice3d.net/2013create7.html
+      "Making your own object path" http://www.venice3d.net/2013create8.html
+      "Object Path Content and Management" http://www.venice3d.net/2013create9.html
+      "Zip/unzip - object password - FTP" http://www.venice3d.net/2013create10.html
+      "Using textures in AW" http://www.venice3d.net/2013create11.html
+      "Using models in AW" http://www.venice3d.net/2013create12.html
+      "World sizes - Cell grid" http://www.venice3d.net/2013create13.html
+      "Start to build & Find free land" http://www.venice3d.net/2014create14.html
+      "Positioning objects - accurate positioning" http://www.venice3d.net/2014create15.html
+      "Multiple object selection / object groups" http://www.venice3d.net/2014create16.html
+      "Aligned building / using the cell grid" http://www.venice3d.net/2014create17.html
+      "Object scripting" http://www.venice3d.net/2014create18.html
+      "V4 - objects" http://www.venice3d.net/2014create19.html
+      "Texture (+masks & animated textures)" http://www.venice3d.net/2014create20.html
+      "Using the color chart" http://www.venice3d.net/2014create21.html
+      "Color/color tint" http://www.venice3d.net/2014create22.html
+      "Sign" http://www.venice3d.net/2014create23.html
+      "Move/Rotate" http://www.venice3d.net/2014create24.html
+      "Prim Objects & Useful websites" http://www.venice3d.net/2015create25.html
+      "Move*Name*9e9 moves*Rotate*Ltm*Sync*" http://www.venice3d.net/2015create26.html
+      "Animate * Timer * Astart * Adone" http://www.venice3d.net/2015create27.html
+      "Animate" http://www.venice3d.net/2015create28.html
+      "Timer * At * At VRT" http://www.venice3d.net/2015create29.html
+      "Matfx * Blend (Mixing textures)" http://www.venice3d.net/2015create30.html
+      "Teleport * Warp" http://www.venice3d.net/2015create31.html
+      "Movers (user controlled) (1)" http://www.venice3d.net/2015create32.html
+      "Movers (user controlled) (2)" http://www.venice3d.net/2015create33.html
+      "Movers (server controlled)" http://www.venice3d.net/2015create34.html
+      "Movers (pick-up items)" http://www.venice3d.net/2015create35.html
+      "Warps and movers" http://www.venice3d.net/2015create36.html
+      "Public yards and paths" http://www.venice3d.net/2015create37.html
+      "Physics (1)" http://www.venice3d.net/2016create38.html
+      "Physics (1) examples" http://www.venice3d.net/2016create39.html
+      "Scale" http://www.venice3d.net/2016create40.html
+      "Shear" http://www.venice3d.net/2016create41.html
+      "Skew" http://www.venice3d.net/2016create42.html
+      "Name" http://www.venice3d.net/2016create43.html
+      "Opacity/Transparency" http://www.venice3d.net/2016create44.html
+      "Object tagging" http://www.venice3d.net/2016create45.html
+      "Making a masked picture with Paint.net" http://www.venice3d.net/2016create46.html
+      "Making a masked picture with Gimp (1)" http://www.venice3d.net/2016create47.html
+      "Making a masked picture with Gimp (2)" http://www.venice3d.net/2016create48.html
+      "Image corrections with Gimp" http://www.venice3d.net/2016create49.html
+      "Making Seamless Textures with Gimp" http://www.venice3d.net/2016create50.html
+      "Ideas for: flowers, shrubs and trees (1)" http://www.venice3d.net/2017create51.html
+      "Ideas for: flowers, shrubs and trees (2)" http://www.venice3d.net/2017create52.html
+      "AWG files and Object groups" http://www.venice3d.net/2017create53.html
+      "Hosting your own games" http://www.venice3d.net/2017create54.html
+      "Creating a night scene" http://www.venice3d.net/2018create55.html
+      "Light" http://www.venice3d.net/2018create56.html
+      "Before starting with Modeling" http://www.venice3d.net/2018create57.html
+      "Modeling programs" http://www.venice3d.net/2018create58.html
+      "Texturing programs" http://www.venice3d.net/2018create59.html
+      "Truespace (version 3.2)" http://www.venice3d.net/2018create60.html
+      "Wings3d (version 1.5.3)" http://www.venice3d.net/2018create61.html
+      "RWX scripting (with Notepad++) (1)" http://www.venice3d.net/2019create62.html
+      "Particle Emitters" http://www.venice3d.net/2020create63.html
+      "World hosting options" http://www.venice3d.net/2020create64.html
+      "RWX scripting (Notepad++) (2) - examples" http://www.venice3d.net/2020create65.html
+      "RWX scripting (Notepad++) (3) - examples" http://www.venice3d.net/2021create66.html    
+    endtopic
+    topic "Bots"
+      "Start using bots" http://www.venice3d.net/2015bots1.html
+      "YASBB" http://www.venice3d.net/2015bots2.html
+      "Preston" http://www.venice3d.net/2016bots3.html
+      "Stachelbot" http://www.venice3d.net/2017bots4.html
+      "Jabb_lite" http://www.venice3d.net/2018bots5.html
+      "Yasbb: Making a partial back-up" http://www.venice3d.net/2019bots6.html
+      "Using Voice Chat In Activeworlds" http://www.venice3d.net/2020bots7.html
+      "Bot programs compatibility" http://www.venice3d.net/2020bots8.html
+    endtopic
+  endtopic
 endtopic
 
 topic "——————————————————————————————"
@@ -612,6 +692,8 @@ topic "The Ultimate Guide to Building"
   topic "D. Advanced Building Topics"
     "Alpha Mechanics" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_8094s_1820e_0a_0
     "ActiveWiki - .INI enhancements Guide" http://wiki.activeworlds.com/index.php?title=Guide:INI_Enhancements
+    "Venice3D - Animate Command" http://venice3d.net/2015create28.html
+    "Venice3D - INI Tweaks" http://www.venice3d.net/2013create4.html
     "SW City Builders Academy - Astart Astop Animation" http://academy.swcity.net/index.php?n=Main.AstartAstopAnimation
     "SW City Builders Academy - Astart Astop Animation Synchronization" http://academy.swcity.net/index.php?n=Main.AstartAstopAnimationSynchronization
     "SW City Builders Academy - Select 1024 Objects" http://academy.swcity.net/index.php?n=Main.Select1024Objects
