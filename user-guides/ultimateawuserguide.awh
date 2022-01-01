@@ -261,6 +261,7 @@ topic "Historical Community Sites"
       "AWPortals - Learn about Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worlds
       "AWPortals - Learn to travel across the Worlds" http://www.awportals.com/sidebar/tutorial.php?page=ps_worldhop
       "AWPortals - Guide to Custom Avatars" http://www.awportals.com/the_guide/cavs.php
+    endtopic
     topic "World Chat and Logs"
       "AW Live" http://www.awportals.com/archives/logs/live_aw.php
       "AWGate Live" http://www.awportals.com/archives/logs/live_awgate.php
@@ -271,7 +272,6 @@ topic "Historical Community Sites"
       "Alphaworld" http://www.awportals.com/opsearch/aw.php
       "AWTeen" http://www.awportals.com/opsearch/awteen.php
       "Megapath" http://www.awportals.com/opsearch/megapath.php
-    endtopic
     endtopic
   endtopic
   topic "ActiveWorlds Builder"
