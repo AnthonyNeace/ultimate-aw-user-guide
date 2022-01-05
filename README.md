@@ -34,6 +34,13 @@ Please test your changes prior to submitting a PR by simply launching the Active
 * Check the `default.awh` file encoding.  ActiveWorlds expects the User Guide to be encoded as `UTF-16 LE BOM`.  Other encodings such as `UTF-8` are confirmed to cause the user guide tab to load blank.
 * Check that all `topic` lines are terminated with a matching `endtopic` line.  Any topics left hanging may not render correctly.
 
+### The User Guide contains one or more dead links
+
+Please help to resolve this in one of the following ways:
+
+* [Report it!](https://github.com/AnthonyNeace/ultimate-aw-user-guide/issues/new?assignees=&labels=dead-link&template=dead-link.md&title=%5BDEAD+LINK%5D) Open an issue to share the problem with us.
+* Fix it! [Open a pull request](https://github.com/AnthonyNeace/ultimate-aw-user-guide/compare) replacing the dead link with a cached version of the page at archive.org, or removing the dead link if there is no cached page available.
+
 ## Older Versions
 
 The previous home of the Ultimate AW User Guide can be found at the [SW City Builder's Academy]( http://www.swcity.net/academy/index.php?n=Main.UltimateAWUserGuide)
