@@ -1,6 +1,6 @@
 ---
 name: Dead Link
-about: Create a report to help us repair or replace dead links in the user guide
+about: Report dead links to help us keep the user guide up to date.
 title: "[DEAD LINK]"
 labels: dead-link
 assignees: ''
