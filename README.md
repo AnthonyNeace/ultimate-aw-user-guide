@@ -1,6 +1,9 @@
 ultimate-aw-user-guide
 ===================
 
+![GitHub file size in bytes](https://img.shields.io/github/size/anthonyneace/ultimate-aw-user-guide/user-guides/ultimateawuserguide.awh)
+![GitHub issues by-label](https://img.shields.io/github/issues-raw/anthonyneace/ultimate-aw-user-guide/dead-link)
+
 ![Screenshot of the User Guide in ActiveWorlds](guide.png "Ultimate AW User Guide in ActiveWorlds")
 
 This repository hosts the Ultimate AW User Guide, a community-maintained modification of the pre-installed User Guide in the [ActiveWorlds](https://www.activeworlds.com) virtual worlds software.
