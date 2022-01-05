@@ -1,8 +1,8 @@
 ultimate-aw-user-guide
 ===================
 
-![GitHub file size in bytes](https://img.shields.io/github/size/anthonyneace/ultimate-aw-user-guide/user-guides/ultimateawuserguide.awh)
-![GitHub issues by-label](https://img.shields.io/github/issues-raw/anthonyneace/ultimate-aw-user-guide/dead-link)
+[![GitHub file size in bytes](https://img.shields.io/github/size/anthonyneace/ultimate-aw-user-guide/user-guides/ultimateawuserguide.awh)](https://raw.githubusercontent.com/AnthonyNeace/ultimate-aw-user-guide/main/user-guides/ultimateawuserguide.awh)
+[![GitHub issues by-label](https://img.shields.io/github/issues-raw/anthonyneace/ultimate-aw-user-guide/dead-link)](https://github.com/AnthonyNeace/ultimate-aw-user-guide/issues?q=is%3Aopen+is%3Aissue+label%3Adead-link)
 
 ![Screenshot of the User Guide in ActiveWorlds](guide.png "Ultimate AW User Guide in ActiveWorlds")
 
