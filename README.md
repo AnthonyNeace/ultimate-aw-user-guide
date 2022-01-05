@@ -11,7 +11,7 @@ This takes the place of the existing user guide, which may be found in the AW ta
 
 The Ultimate AW User Guide won a Cy Award on November 13, 2010 for Best Bot/Software.
 
-### Installation
+## Installation
 
 The AW User Guide is configured, by default, in plaintext at the client at:
 
@@ -21,27 +21,24 @@ C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help\default.awh
 
 Simply clone this repository and run `.\install.ps1` in this directory to copy the Ultimate AW User Guide into the ActiveWorlds Help directory.
 
-### Contributions
+## Contributions
 
 This repository is accepting pull requests for any ActiveWorlds-related content that would be appropriate for the User Guide, to the discretion of the maintainers. Edit in VS Code for best experience.
 
 Please test your changes prior to submitting a PR by simply launching the ActiveWorlds browser with your changes and observing that they work as expected.
 
-### Troubleshooting
+## Troubleshooting
 
-#### The User Guide is Blank in ActiveWorlds
+### The User Guide is Blank in ActiveWorlds
 
 * Check the `default.awh` file encoding.  ActiveWorlds expects the User Guide to be encoded as `UTF-16 LE BOM`.  Other encodings such as `UTF-8` are confirmed to cause the user guide tab to load blank.
 * Check that all `topic` lines are terminated with a matching `endtopic` line.  Any topics left hanging may not render correctly.
 
-### Older Versions
+## Older Versions
 
 The previous home of the Ultimate AW User Guide can be found at the [SW City Builder's Academy]( http://www.swcity.net/academy/index.php?n=Main.UltimateAWUserGuide)
 
-Attribution
------------
-
-#### Ultimate AW User Guide
+## Attribution
 
 * Hyper Anthony (#350539) - Compiled Guide.
 * Bach Zhaa (#360197) - Creating so many of the resources that were included in this guide.
