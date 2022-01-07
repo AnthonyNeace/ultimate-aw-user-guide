@@ -619,7 +619,13 @@ topic "The Ultimate Guide to Bots and the SDK"
       ".NET (Byte)" https://github.com/Bloyteg/AW.SDK.Core
       ".NET (2021 Fork)" https://github.com/brandonavant/AW.SDK.Core
       "AutoIt" https://github.com/locodarwin/AWSDK-For-AutoIt
-      "Python" https://github.com/Korth-Spirit/Korth-Spirit
+      topic "Python"
+        "Wrapper" https://github.com/Korth-Spirit/Korth-Spirit
+        "Sample Program - Simple GreeterBot" https://github.com/Korth-Spirit/Greeter-Bot
+        "Sample Program - Simple DJBot" https://github.com/Korth-Spirit/Disc-Jockey
+        "Sample Program - QueryBot" https://github.com/Korth-Spirit/Object-Backup
+        "Sample Program - Plugin Bot" https://github.com/Korth-Spirit/Plugin-Bot
+      endtopic
       "VB" https://activeworlds.com/sdk/vb/
     endtopic
     topic "3. Reference"
