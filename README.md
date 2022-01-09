@@ -4,7 +4,7 @@ ultimate-aw-user-guide
 [![GitHub file size in bytes](https://img.shields.io/github/size/anthonyneace/ultimate-aw-user-guide/user-guides/ultimateawuserguide.awh)](https://raw.githubusercontent.com/AnthonyNeace/ultimate-aw-user-guide/main/user-guides/ultimateawuserguide.awh)
 [![GitHub issues by-label](https://img.shields.io/github/issues-raw/anthonyneace/ultimate-aw-user-guide/dead-link)](https://github.com/AnthonyNeace/ultimate-aw-user-guide/issues?q=is%3Aopen+is%3Aissue+label%3Adead-link)
 
-![Screenshot of the User Guide in ActiveWorlds](guide.png "Ultimate AW User Guide in ActiveWorlds")
+![Screenshot of the User Guide in ActiveWorlds](images/guide.png "Ultimate AW User Guide in ActiveWorlds")
 
 This repository hosts the Ultimate AW User Guide, a community-maintained modification of the pre-installed User Guide in the [ActiveWorlds](https://www.activeworlds.com) virtual worlds software.
 
@@ -27,6 +27,8 @@ Simply clone this repository and run `.\install.ps1` in this directory to copy t
 ## Contributions
 
 This repository is accepting pull requests for any ActiveWorlds-related content that would be appropriate for the User Guide, to the discretion of the maintainers. Please test your changes prior to submitting a PR by simply launching the ActiveWorlds browser with your changes and observing that they work as expected.
+
+![Screenshot of the vscode developer environment](images/vscode.PNG "Ultimate AW User Guide in VSCode")
 
 We recommend editing the User Guide in vscode for best developer experience.  We wrote a vscode extension [awh-for-vscode](https://marketplace.visualstudio.com/items?itemName=AnthonyNeace.awh-for-vscode) to assist with .awh development.
 
