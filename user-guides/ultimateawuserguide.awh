@@ -11,10 +11,10 @@ topic "————————————————————————�
 endtopic
 topic "Active Worlds Official User Guide"
   topic "Welcome to Active Worlds"
-  "Welcome to Active Worlds" Browser
-  "How do I Get Started?" Get_Started
-  "Search the User Guide" Special%3ASearch
-  "Latest Build Notes" Latest_version
+    "Welcome to Active Worlds" Browser
+    "How do I Get Started?" Get_Started
+    "Search the User Guide" Special%3ASearch
+    "Latest Build Notes" Latest_version
   endtopic
 
   topic "Getting Started"
@@ -112,11 +112,11 @@ topic "Active Worlds Version 8.0"
   "ActiveWiki - New Features in Active Worlds 8.0" http://wiki.activeworlds.com/index.php?title=8.0
 endtopic
 topic "Staying Connected in the Active Worlds Universe"
-"ActiveWiki" http://wiki.activeworlds.com
-"ActiveWiki - Glossary of Terms" http://wiki.activeworlds.com/index.php?title=Glossary
-"Active Worlds Community" http://awcommunity.org/
-"Active Worlds Forums" http://forums.activeworlds.com 
-"Active Worlds Monthly Newsletter" http://activeworlds.com/newsletter
+  "ActiveWiki" http://wiki.activeworlds.com
+  "ActiveWiki - Glossary of Terms" http://wiki.activeworlds.com/index.php?title=Glossary
+  "Active Worlds Community" http://awcommunity.org/
+  "Active Worlds Forums" http://forums.activeworlds.com 
+  "Active Worlds Monthly Newsletter" http://activeworlds.com/newsletter
 endtopic
 
 topic "——————————————————————————————"
@@ -193,11 +193,11 @@ topic "SW City Network"
     "SWiki - SW City Charter" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.Charter
     "Swiki - Town Square Park" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.TownSquarePark
   endtopic
-"SW City - Acquire Property" https://www.swcity.net/www/property.php
-"SW City - Alphaworld Enhanced" https://www.swcity.net/www/awe.php
-"SW City - Index" https://www.swcity.net/index.php
-"SWiki - History" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.SWCityHistory
-"Teleport - SW City Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2217.397s_3609.8e_0.15a_180
+  "SW City - Acquire Property" https://www.swcity.net/www/property.php
+  "SW City - Alphaworld Enhanced" https://www.swcity.net/www/awe.php
+  "SW City - Index" https://www.swcity.net/index.php
+  "SWiki - History" https://www.swcity.net/pmwiki/pmwiki.php?n=SWC.SWCityHistory
+  "Teleport - SW City Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2217.397s_3609.8e_0.15a_180
 endtopic
 topic "Historical Community Sites"
   topic "Cy Awards"
@@ -592,8 +592,8 @@ endtopic
 topic "The Ultimate Guide to Bots and the SDK"
   topic "A. Software Development Kit"
     topic "1. Introduction"
-    "Download the SDK" http://www.activeworlds.com/sdk/Download42.htm
-    "God Zedle - Your first C/C++ IDE and Compiler" http://web.archive.org/web/20060813043600/http://awprogrammer.com/
+      "Download the SDK" http://www.activeworlds.com/sdk/Download42.htm
+      "God Zedle - Your first C/C++ IDE and Compiler" http://web.archive.org/web/20060813043600/http://awprogrammer.com/
       topic "Concepts"
         "Structure of an SDK Application" http://wiki.activeworlds.com/index.php?title=SDK_Application_Structure
         "Event Handlers" http://wiki.activeworlds.com/index.php?title=SDK_Event_Handlers
@@ -611,9 +611,9 @@ topic "The Ultimate Guide to Bots and the SDK"
         "Global Mode" http://wiki.activeworlds.com/index.php?title=SDK_Global_Mode
         "World Server Administration" http://wiki.activeworlds.com/index.php?title=SDK_World_Server_Administration
       endtopic
-    "Sample Program - Simple GreeterBot" http://www.activeworlds.com/sdk/sample1.htm
-    "Sample Program - Simple DJBot" http://www.activeworlds.com/sdk/sample2.htm
-    "Sample Program - QueryBot" http://web.archive.org/web/20060813043600/http://awprogrammer.com/
+      "Sample Program - Simple GreeterBot" http://www.activeworlds.com/sdk/sample1.htm
+      "Sample Program - Simple DJBot" http://www.activeworlds.com/sdk/sample2.htm
+      "Sample Program - QueryBot" http://web.archive.org/web/20060813043600/http://awprogrammer.com/
     endtopic
     topic "2. Wrappers"
       ".NET (Byte)" https://github.com/Bloyteg/AW.SDK.Core
@@ -1465,9 +1465,9 @@ topic "Ultimate Teleports List"
         topic "Zelena"
           topic "Information: A small nation-state on the fringe of SW City. Led by Baro."
           endtopic
-        "Zelfoor" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1315s_4115e_1a_270
-        "Zelena Islands" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1325.7S_4749.48E
-        "Zlata Ves" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1145.287s_4747.244e_0.5a
+          "Zelfoor" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1315s_4115e_1a_270
+          "Zelena Islands" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1325.7S_4749.48E
+          "Zlata Ves" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1145.287s_4747.244e_0.5a
         endtopic
       endtopic
       topic "Other Towns and Communities"
