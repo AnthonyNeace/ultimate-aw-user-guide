@@ -4,6 +4,6 @@ This repository is accepting pull requests for any ActiveWorlds-related content 
 
 ## Developer Environment
 
-![Screenshot of the vscode developer environment](images/vscode.PNG "Ultimate AW User Guide in VSCode")
+![Screenshot of the vscode developer environment](../.images/vscode.PNG "Ultimate AW User Guide in VSCode")
 
 We recommend editing the User Guide in vscode for best developer experience.  We wrote a vscode extension [awh-for-vscode](https://marketplace.visualstudio.com/items?itemName=AnthonyNeace.awh-for-vscode) to assist with .awh development.
