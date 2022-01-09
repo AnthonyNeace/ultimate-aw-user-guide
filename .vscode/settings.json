@@ -1,9 +1,6 @@
 {
     "editor.tabSize": 2,
-    "files.associations": {
-        "*.awh": "ini"
-    },
-    "[ini]": {
+    "[awh]": {
         "files.encoding": "utf16le"
     }
 }
