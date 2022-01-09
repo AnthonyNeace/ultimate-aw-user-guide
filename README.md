@@ -26,9 +26,9 @@ Simply clone this repository and run `.\install.ps1` in this directory to copy t
 
 ## Contributions
 
-This repository is accepting pull requests for any ActiveWorlds-related content that would be appropriate for the User Guide, to the discretion of the maintainers. Edit in VS Code for best experience.
+This repository is accepting pull requests for any ActiveWorlds-related content that would be appropriate for the User Guide, to the discretion of the maintainers. Please test your changes prior to submitting a PR by simply launching the ActiveWorlds browser with your changes and observing that they work as expected.
 
-Please test your changes prior to submitting a PR by simply launching the ActiveWorlds browser with your changes and observing that they work as expected.
+We recommend editing the User Guide in vscode for best developer experience.  We wrote a vscode extension [awh-for-vscode](https://marketplace.visualstudio.com/items?itemName=AnthonyNeace.awh-for-vscode) to assist with .awh development.
 
 ## Troubleshooting
 
