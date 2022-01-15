@@ -16,13 +16,25 @@ The Ultimate AW User Guide won a Cy Award on November 13, 2010 for Best Bot/Soft
 
 ## Installation
 
-The AW User Guide is configured, by default, in plaintext at the client at:
+The Default AW User Guide is configured, when installing Active Worlds, in plaintext at `C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help\default.awh`. Simply replace the file at this location with the Ultimate AW User Guide and restart Active Worlds.
 
-```powershell 
-C:\Users\$env:username\AppData\Local\ActiveWorlds 3D\Help\default.awh
-```
+### Script Install
 
-Simply clone this repository and run `.\install.ps1` in this directory to copy the Ultimate AW User Guide into the ActiveWorlds Help directory.
+Clone this repository to your local machine and run `.\install.ps1` via a PowerShell terminal. The install script will copy the Ultimate AW User Guide from the repository directory into the ActiveWorlds Help directory.
+
+#### Install Script Flags
+
+* You can set the `-Debug` flag to get some more verbose output if the script failing and you need to troubleshoot.
+* You can set the `-Remote` flag to download the user guide from GitHub instead of using your local file.
+
+### Manual Install
+
+Follow these instructions if you are unable to use the install script above:
+
+* Go to: https://raw.githubusercontent.com/AnthonyNeace/ultimate-aw-user-guide/main/user-guides/ultimateawuserguide.awh
+* The next step will overwrite the previously existing AW User Guide at this location.  You can back it up by renaming it before completing the next step.
+* Save As > default.awh in the AW User Guide directory on your local machine.  This is usually at `C:\Users\<your_windows_user>\AppData\Local\ActiveWorlds 3D\Help`
+* When ActiveWorlds next launches, it will pull whatever is at `C:\Users\<your_windows_user>\AppData\Local\ActiveWorlds 3D\Help\default.awh` into your User Guide tab.
 
 ## Contributions
 
