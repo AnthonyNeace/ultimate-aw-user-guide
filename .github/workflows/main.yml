@@ -27,6 +27,7 @@ jobs:
       
       - name: Check User Guide Encoding
         run: |
+          ls -l
           expected_encoding="text/plain; charset=utf-16le"
           encoding=$(file -bi /user-guides/ultimateawuserguide.awh)
           if [ "$encoding" = "$expected_encoding" ]; then 
