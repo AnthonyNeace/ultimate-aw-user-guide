@@ -24,6 +24,16 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+
+      - name: Check User Guide Exists
+        run: |
+          FILE=./user-guides/ultimateawuserguide.awh
+          if test -f "$FILE"; then
+            echo "Check User Guide Exists: Pass"
+          else 
+            echo "Check User Guide Exists: User Guide file not detected at expected location."
+            exit 1
+          fi
       
       - name: Check User Guide Encoding
         run: |
