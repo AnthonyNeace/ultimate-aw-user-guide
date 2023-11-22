@@ -1,4 +1,4 @@
-help_base http://wiki.activeworlds.com/index.php?title=
+help_base https://wiki.activeworlds.com/index.php?title=
 
 topic "The Ultimate AW User Guide"
 endtopic
@@ -110,14 +110,14 @@ endtopic
 topic "——————————————————————————————"
 endtopic
 topic "Active Worlds Version 8.1"
-  "ActiveWiki - New Features in Active Worlds 8.1" http://wiki.activeworlds.com/index.php?title=8.1
+  "ActiveWiki - New Features in Active Worlds 8.1" https://wiki.activeworlds.com/index.php?title=8.1
 endtopic
 topic "Staying Connected in the Active Worlds Universe"
-  "ActiveWiki" http://wiki.activeworlds.com
-  "ActiveWiki - Glossary of Terms" http://wiki.activeworlds.com/index.php?title=Glossary
-  "Active Worlds Community" http://awcommunity.org/
+  "ActiveWiki" https://wiki.activeworlds.com
+  "ActiveWiki - Glossary of Terms" https://wiki.activeworlds.com/index.php?title=Glossary
   "Active Worlds Forums" http://forums.activeworlds.com 
-  "Active Worlds Monthly Newsletter" http://activeworlds.com/newsletter
+  "Active Worlds Monthly Newsletter" https://activeworlds.com/newsletter
+  "Activeworlds Support Inquiry" https://www.activeworlds.com/ssl/forms/view.php?id=16037  
 endtopic
 
 topic "——————————————————————————————"
@@ -209,23 +209,23 @@ topic "Historical Community Sites"
     topic "History of Past Ceremonies"
       topic "Info: Click below for a write-up of each ceremony!"
       endtopic
-      "ActiveWiki - 1998 Cy Awards (May)" http://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(May)
-      "ActiveWiki - 1998 Cy Awards (September)" http://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(September)
-      "ActiveWiki - 1999 Cy AWards (January)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(January)
-      "ActiveWiki - 1999 Cy Awards (June)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(June)
-      "ActiveWiki - 1999 Cy Awards (October)" http://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(October)
-      "ActiveWiki - 2000 Cy Awards (January)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(January)
-      "ActiveWiki - 2000 Cy Awards (April)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(April)
-      "ActiveWiki - 2000 Cy Awards (September)" http://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(September)
-      "ActiveWiki - 2001 Cy Awards" http://wiki.activeworlds.com/index.php?title=2001_Cy_Awards
-      "ActiveWiki - 2002 Cy Awards" http://wiki.activeworlds.com/index.php?title=2002_Cy_Awards
-      "ActiveWiki - 2004 Cy Awards" http://wiki.activeworlds.com/index.php?title=2004_Cy_Awards
-      "ActiveWiki - 2006 Cy Awards" http://wiki.activeworlds.com/index.php?title=2006_Cy_Awards
-      "ActiveWiki - 2007 Cy Awards" http://wiki.activeworlds.com/index.php?title=2007_Cy_Awards
-      "ActiveWiki - 2008 Cy Awards" http://wiki.activeworlds.com/index.php?title=2008_Cy_Awards
-      "ActiveWiki - 2009 Cy Awards" http://wiki.activeworlds.com/index.php?title=2009_Cy_Awards
-      "ActiveWiki - 2010 Cy Awards" http://wiki.activeworlds.com/index.php?title=2010_Cy_Awards
-      "ActiveWiki - 2014 Cy Awards" http://wiki.activeworlds.com/index.php?title=2014_Cy_Awards
+      "ActiveWiki - 1998 Cy Awards (May)" https://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(May)
+      "ActiveWiki - 1998 Cy Awards (September)" https://wiki.activeworlds.com/index.php?title=1998_Cy_Awards_(September)
+      "ActiveWiki - 1999 Cy AWards (January)" https://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(January)
+      "ActiveWiki - 1999 Cy Awards (June)" https://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(June)
+      "ActiveWiki - 1999 Cy Awards (October)" https://wiki.activeworlds.com/index.php?title=1999_Cy_Awards_(October)
+      "ActiveWiki - 2000 Cy Awards (January)" https://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(January)
+      "ActiveWiki - 2000 Cy Awards (April)" https://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(April)
+      "ActiveWiki - 2000 Cy Awards (September)" https://wiki.activeworlds.com/index.php?title=2000_Cy_Awards_(September)
+      "ActiveWiki - 2001 Cy Awards" https://wiki.activeworlds.com/index.php?title=2001_Cy_Awards
+      "ActiveWiki - 2002 Cy Awards" https://wiki.activeworlds.com/index.php?title=2002_Cy_Awards
+      "ActiveWiki - 2004 Cy Awards" https://wiki.activeworlds.com/index.php?title=2004_Cy_Awards
+      "ActiveWiki - 2006 Cy Awards" https://wiki.activeworlds.com/index.php?title=2006_Cy_Awards
+      "ActiveWiki - 2007 Cy Awards" https://wiki.activeworlds.com/index.php?title=2007_Cy_Awards
+      "ActiveWiki - 2008 Cy Awards" https://wiki.activeworlds.com/index.php?title=2008_Cy_Awards
+      "ActiveWiki - 2009 Cy Awards" https://wiki.activeworlds.com/index.php?title=2009_Cy_Awards
+      "ActiveWiki - 2010 Cy Awards" https://wiki.activeworlds.com/index.php?title=2010_Cy_Awards
+      "ActiveWiki - 2014 Cy Awards" https://wiki.activeworlds.com/index.php?title=2014_Cy_Awards
     endtopic
     topic "CyAwards World Teleports"
       "Teleport - Cyawards Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Cyawards
@@ -409,180 +409,180 @@ topic "Historical Community Sites"
       "January" http://www.activeworlds.com/newsletter/0112/index.html
     endtopic
     topic "2011"	 
-      "December" http://activeworlds.com/newsletter/1211/index.html
-      "November" http://activeworlds.com/newsletter/1111/index.html
-      "October" http://activeworlds.com/newsletter/1011/index.html
-      "September" http://activeworlds.com/newsletter/0911/index.html
-      "August" http://activeworlds.com/newsletter/0811/index.html
-      "July" http://activeworlds.com/newsletter/0711/index.html
-      "June" http://activeworlds.com/newsletter/0611/index.html
-      "May" http://activeworlds.com/newsletter/0511/index.html
-      "April" http://activeworlds.com/newsletter/0411/index.html
-      "February" http://activeworlds.com/newsletter/0211/index.html
-      "January" http://activeworlds.com/newsletter/0111/index.html
+      "December" https://activeworlds.com/newsletter/1211/index.html
+      "November" https://activeworlds.com/newsletter/1111/index.html
+      "October" https://activeworlds.com/newsletter/1011/index.html
+      "September" https://activeworlds.com/newsletter/0911/index.html
+      "August" https://activeworlds.com/newsletter/0811/index.html
+      "July" https://activeworlds.com/newsletter/0711/index.html
+      "June" https://activeworlds.com/newsletter/0611/index.html
+      "May" https://activeworlds.com/newsletter/0511/index.html
+      "April" https://activeworlds.com/newsletter/0411/index.html
+      "February" https://activeworlds.com/newsletter/0211/index.html
+      "January" https://activeworlds.com/newsletter/0111/index.html
     endtopic
     topic "2010"	                                          
-      "December" http://activeworlds.com/newsletter/1210/index.html
-      "November" http://activeworlds.com/newsletter/1110/index.html
-      "October" http://activeworlds.com/newsletter/1010/index.html
-      "September" http://activeworlds.com/newsletter/0910/index.html
-      "August" http://activeworlds.com/newsletter/0810/index.html
-      "July" http://activeworlds.com/newsletter/0710/index.html
-      "June" http://activeworlds.com/newsletter/0610/index.html
-      "May" http://activeworlds.com/newsletter/0510/index.html
-      "April" http://activeworlds.com/newsletter/0410/index.html
-      "March" http://activeworlds.com/newsletter/0310/index.html
-      "February" http://activeworlds.com/newsletter/0210/index.html
-      "January" http://activeworlds.com/newsletter/0110/index.html
+      "December" https://activeworlds.com/newsletter/1210/index.html
+      "November" https://activeworlds.com/newsletter/1110/index.html
+      "October" https://activeworlds.com/newsletter/1010/index.html
+      "September" https://activeworlds.com/newsletter/0910/index.html
+      "August" https://activeworlds.com/newsletter/0810/index.html
+      "July" https://activeworlds.com/newsletter/0710/index.html
+      "June" https://activeworlds.com/newsletter/0610/index.html
+      "May" https://activeworlds.com/newsletter/0510/index.html
+      "April" https://activeworlds.com/newsletter/0410/index.html
+      "March" https://activeworlds.com/newsletter/0310/index.html
+      "February" https://activeworlds.com/newsletter/0210/index.html
+      "January" https://activeworlds.com/newsletter/0110/index.html
     endtopic
     topic "2009"	                                          
-      "December" http://activeworlds.com/newsletter/1209/index.html
-      "November" http://activeworlds.com/newsletter/1109/index.html
-      "October" http://activeworlds.com/newsletter/1009/index.html
-      "September" http://activeworlds.com/newsletter/0909/index.html
-      "August" http://activeworlds.com/newsletter/0809/index.html
-      "July" http://activeworlds.com/newsletter/0709/index.html
-      "June" http://activeworlds.com/newsletter/0609/index.html
-      "May" http://activeworlds.com/newsletter/0509/index.html
-      "April" http://activeworlds.com/newsletter/0409/index.html
-      "March" http://activeworlds.com/newsletter/0309/index.html
-      "February" http://activeworlds.com/newsletter/0209/index.html
-      "January" http://activeworlds.com/newsletter/0109/index.html
+      "December" https://activeworlds.com/newsletter/1209/index.html
+      "November" https://activeworlds.com/newsletter/1109/index.html
+      "October" https://activeworlds.com/newsletter/1009/index.html
+      "September" https://activeworlds.com/newsletter/0909/index.html
+      "August" https://activeworlds.com/newsletter/0809/index.html
+      "July" https://activeworlds.com/newsletter/0709/index.html
+      "June" https://activeworlds.com/newsletter/0609/index.html
+      "May" https://activeworlds.com/newsletter/0509/index.html
+      "April" https://activeworlds.com/newsletter/0409/index.html
+      "March" https://activeworlds.com/newsletter/0309/index.html
+      "February" https://activeworlds.com/newsletter/0209/index.html
+      "January" https://activeworlds.com/newsletter/0109/index.html
     endtopic
     topic "2008"	                                          
-      "December" http://activeworlds.com/newsletter/1208/index.html
-      "November" http://activeworlds.com/newsletter/1108/index.html
-      "October" http://activeworlds.com/newsletter/1008/index.html
-      "September" http://activeworlds.com/newsletter/0908/index.html
-      "August" http://activeworlds.com/newsletter/0808/index.html
-      "July" http://activeworlds.com/newsletter/0708/index.html
-      "June" http://activeworlds.com/newsletter/0608/index.html
-      "May" http://activeworlds.com/newsletter/0508/index.html
-      "April" http://activeworlds.com/newsletter/0408/index.html
-      "March" http://activeworlds.com/newsletter/0308/index.html
-      "February" http://activeworlds.com/newsletter/0208/index.html
-      "January" http://activeworlds.com/newsletter/0108/index.html
+      "December" https://activeworlds.com/newsletter/1208/index.html
+      "November" https://activeworlds.com/newsletter/1108/index.html
+      "October" https://activeworlds.com/newsletter/1008/index.html
+      "September" https://activeworlds.com/newsletter/0908/index.html
+      "August" https://activeworlds.com/newsletter/0808/index.html
+      "July" https://activeworlds.com/newsletter/0708/index.html
+      "June" https://activeworlds.com/newsletter/0608/index.html
+      "May" https://activeworlds.com/newsletter/0508/index.html
+      "April" https://activeworlds.com/newsletter/0408/index.html
+      "March" https://activeworlds.com/newsletter/0308/index.html
+      "February" https://activeworlds.com/newsletter/0208/index.html
+      "January" https://activeworlds.com/newsletter/0108/index.html
     endtopic
     topic "2007"	                                          
-      "December" http://activeworlds.com/newsletter/1207/index.html
-      "November" http://activeworlds.com/newsletter/1107/index.html
-      "October" http://activeworlds.com/newsletter/1007/index.html
-      "September" http://activeworlds.com/newsletter/0907/index.html
-      "August" http://activeworlds.com/newsletter/0807/index.html
-      "July" http://activeworlds.com/newsletter/0707/index.html
-      "June" http://activeworlds.com/newsletter/0607/index.html
-      "May" http://activeworlds.com/newsletter/0507/index.html
-      "April" http://activeworlds.com/newsletter/0407/index.html
-      "March" http://activeworlds.com/newsletter/0307/index.html
-      "February" http://activeworlds.com/newsletter/0207/index.html
-      "January" http://activeworlds.com/newsletter/0107/index.html
+      "December" https://activeworlds.com/newsletter/1207/index.html
+      "November" https://activeworlds.com/newsletter/1107/index.html
+      "October" https://activeworlds.com/newsletter/1007/index.html
+      "September" https://activeworlds.com/newsletter/0907/index.html
+      "August" https://activeworlds.com/newsletter/0807/index.html
+      "July" https://activeworlds.com/newsletter/0707/index.html
+      "June" https://activeworlds.com/newsletter/0607/index.html
+      "May" https://activeworlds.com/newsletter/0507/index.html
+      "April" https://activeworlds.com/newsletter/0407/index.html
+      "March" https://activeworlds.com/newsletter/0307/index.html
+      "February" https://activeworlds.com/newsletter/0207/index.html
+      "January" https://activeworlds.com/newsletter/0107/index.html
     endtopic
     topic "2006"	                                          
-      "December" http://activeworlds.com/newsletter/1206/index.html
-      "November" http://activeworlds.com/newsletter/1106/index.html
-      "October" http://activeworlds.com/newsletter/1006/index.html
-      "September" http://activeworlds.com/newsletter/0906/index.html
-      "August" http://activeworlds.com/newsletter/0806/index.html
-      "July" http://activeworlds.com/newsletter/0706/index.html
-      "June" http://activeworlds.com/newsletter/0606/index.html
-      "May" http://activeworlds.com/newsletter/0506/index.html
-      "April" http://activeworlds.com/newsletter/0406/index.html
-      "March" http://activeworlds.com/newsletter/0306/index.html
-      "February" http://activeworlds.com/newsletter/0206/index.html
-      "January" http://activeworlds.com/newsletter/0106/index.html
+      "December" https://activeworlds.com/newsletter/1206/index.html
+      "November" https://activeworlds.com/newsletter/1106/index.html
+      "October" https://activeworlds.com/newsletter/1006/index.html
+      "September" https://activeworlds.com/newsletter/0906/index.html
+      "August" https://activeworlds.com/newsletter/0806/index.html
+      "July" https://activeworlds.com/newsletter/0706/index.html
+      "June" https://activeworlds.com/newsletter/0606/index.html
+      "May" https://activeworlds.com/newsletter/0506/index.html
+      "April" https://activeworlds.com/newsletter/0406/index.html
+      "March" https://activeworlds.com/newsletter/0306/index.html
+      "February" https://activeworlds.com/newsletter/0206/index.html
+      "January" https://activeworlds.com/newsletter/0106/index.html
     endtopic
     topic "2005"	                                          
-      "December" http://activeworlds.com/newsletter/1205/index.html
-      "November" http://activeworlds.com/newsletter/1105/index.html
-      "October" http://activeworlds.com/newsletter/1005/index.html
-      "September" http://activeworlds.com/newsletter/0905/index.html
-      "May" http://activeworlds.com/newsletter/0505/index.html
-      "March" http://activeworlds.com/newsletter/0305/index.html
-      "February" http://activeworlds.com/newsletter/0205/index.html
-      "January" http://activeworlds.com/newsletter/0105/index.html
+      "December" https://activeworlds.com/newsletter/1205/index.html
+      "November" https://activeworlds.com/newsletter/1105/index.html
+      "October" https://activeworlds.com/newsletter/1005/index.html
+      "September" https://activeworlds.com/newsletter/0905/index.html
+      "May" https://activeworlds.com/newsletter/0505/index.html
+      "March" https://activeworlds.com/newsletter/0305/index.html
+      "February" https://activeworlds.com/newsletter/0205/index.html
+      "January" https://activeworlds.com/newsletter/0105/index.html
     endtopic
     topic "2004"	                                          
-      "December" http://activeworlds.com/newsletter/1204/index.html
-      "November" http://activeworlds.com/newsletter/1104/index.html
-      "October" http://activeworlds.com/newsletter/1004/index.html
-      "August" http://activeworlds.com/newsletter/0804/index.html
-      "July" http://activeworlds.com/newsletter/0704/index.html
-      "June" http://activeworlds.com/newsletter/0604/index.html
-      "May" http://activeworlds.com/newsletter/0504/index.html
-      "April" http://activeworlds.com/newsletter/0404/index.html
-      "March" http://activeworlds.com/newsletter/0304/index.html
-      "February" http://activeworlds.com/newsletter/0204/index.html
+      "December" https://activeworlds.com/newsletter/1204/index.html
+      "November" https://activeworlds.com/newsletter/1104/index.html
+      "October" https://activeworlds.com/newsletter/1004/index.html
+      "August" https://activeworlds.com/newsletter/0804/index.html
+      "July" https://activeworlds.com/newsletter/0704/index.html
+      "June" https://activeworlds.com/newsletter/0604/index.html
+      "May" https://activeworlds.com/newsletter/0504/index.html
+      "April" https://activeworlds.com/newsletter/0404/index.html
+      "March" https://activeworlds.com/newsletter/0304/index.html
+      "February" https://activeworlds.com/newsletter/0204/index.html
     endtopic
     topic "2003"	                                          
-      "December" http://activeworlds.com/newsletter/1203/index.html
-      "November" http://activeworlds.com/newsletter/1103/index.html
-      "October" http://activeworlds.com/newsletter/1003/index.html
-      "September" http://activeworlds.com/newsletter/0903/index.html
-      "July" http://activeworlds.com/newsletter/0703/index.html
-      "June" http://activeworlds.com/newsletter/0603/index.html
-      "April" http://activeworlds.com/newsletter/0403/index.html
-      "March" http://activeworlds.com/newsletter/0303/index.html
-      "February" http://activeworlds.com/newsletter/0203/index.html
-      "January" http://activeworlds.com/newsletter/0103/index.html
+      "December" https://activeworlds.com/newsletter/1203/index.html
+      "November" https://activeworlds.com/newsletter/1103/index.html
+      "October" https://activeworlds.com/newsletter/1003/index.html
+      "September" https://activeworlds.com/newsletter/0903/index.html
+      "July" https://activeworlds.com/newsletter/0703/index.html
+      "June" https://activeworlds.com/newsletter/0603/index.html
+      "April" https://activeworlds.com/newsletter/0403/index.html
+      "March" https://activeworlds.com/newsletter/0303/index.html
+      "February" https://activeworlds.com/newsletter/0203/index.html
+      "January" https://activeworlds.com/newsletter/0103/index.html
     endtopic
     topic "2002"	                                          
-      "December" http://activeworlds.com/newsletter/1202/index.html
-      "November" http://activeworlds.com/newsletter/1102/index.html
-      "October" http://activeworlds.com/newsletter/1002/index.html
-      "September" http://activeworlds.com/newsletter/0902/index.html
-      "August" http://activeworlds.com/newsletter/0802/index.html
-      "July" http://activeworlds.com/newsletter/0702/index.html
-      "June" http://activeworlds.com/newsletter/0602/index.html
-      "May" http://activeworlds.com/newsletter/0502/index.html
-      "April" http://activeworlds.com/newsletter/0402/index.html
-      "March" http://activeworlds.com/newsletter/0302/index.html
-      "February" http://activeworlds.com/newsletter/0202/index.html
-      "January" http://activeworlds.com/newsletter/0102/index.html
+      "December" https://activeworlds.com/newsletter/1202/index.html
+      "November" https://activeworlds.com/newsletter/1102/index.html
+      "October" https://activeworlds.com/newsletter/1002/index.html
+      "September" https://activeworlds.com/newsletter/0902/index.html
+      "August" https://activeworlds.com/newsletter/0802/index.html
+      "July" https://activeworlds.com/newsletter/0702/index.html
+      "June" https://activeworlds.com/newsletter/0602/index.html
+      "May" https://activeworlds.com/newsletter/0502/index.html
+      "April" https://activeworlds.com/newsletter/0402/index.html
+      "March" https://activeworlds.com/newsletter/0302/index.html
+      "February" https://activeworlds.com/newsletter/0202/index.html
+      "January" https://activeworlds.com/newsletter/0102/index.html
     endtopic
     topic "2001"	                                          
-      "December" http://activeworlds.com/newsletter/1201/index.html
-      "November" http://activeworlds.com/newsletter/1101/index.html
-      "October" http://activeworlds.com/newsletter/1001/index.html
-      "September" http://activeworlds.com/newsletter/0901/index.html
-      "August" http://activeworlds.com/newsletter/0801/index.html
-      "July" http://activeworlds.com/newsletter/0701/index.html
-      "June" http://activeworlds.com/newsletter/0601/index.html
-      "May" http://activeworlds.com/newsletter/0501/index.html
-      "April" http://activeworlds.com/newsletter/0401/index.html
-      "March" http://activeworlds.com/newsletter/0301/index.html
-      "January" http://activeworlds.com/newsletter/0101/index.html
+      "December" https://activeworlds.com/newsletter/1201/index.html
+      "November" https://activeworlds.com/newsletter/1101/index.html
+      "October" https://activeworlds.com/newsletter/1001/index.html
+      "September" https://activeworlds.com/newsletter/0901/index.html
+      "August" https://activeworlds.com/newsletter/0801/index.html
+      "July" https://activeworlds.com/newsletter/0701/index.html
+      "June" https://activeworlds.com/newsletter/0601/index.html
+      "May" https://activeworlds.com/newsletter/0501/index.html
+      "April" https://activeworlds.com/newsletter/0401/index.html
+      "March" https://activeworlds.com/newsletter/0301/index.html
+      "January" https://activeworlds.com/newsletter/0101/index.html
     endtopic
     topic "2000"	                                          
-      "December" http://activeworlds.com/newsletter/1200/index.html
-      "November" http://activeworlds.com/newsletter/1100/index.html
-      "October" http://activeworlds.com/newsletter/1000/index.html
-      "September" http://activeworlds.com/newsletter/0900/index.html
-      "August" http://activeworlds.com/newsletter/0800/index.html
-      "July" http://activeworlds.com/newsletter/0700/index.html
-      "June" http://activeworlds.com/newsletter/0600/index.html
-      "May" http://activeworlds.com/newsletter/0500/index.html
-      "April" http://activeworlds.com/newsletter/0400/index.html
-      "March" http://activeworlds.com/newsletter/0300/index.html
-      "February" http://activeworlds.com/newsletter/0200/index.html
-      "January" http://activeworlds.com/newsletter/0100/index.html
+      "December" https://activeworlds.com/newsletter/1200/index.html
+      "November" https://activeworlds.com/newsletter/1100/index.html
+      "October" https://activeworlds.com/newsletter/1000/index.html
+      "September" https://activeworlds.com/newsletter/0900/index.html
+      "August" https://activeworlds.com/newsletter/0800/index.html
+      "July" https://activeworlds.com/newsletter/0700/index.html
+      "June" https://activeworlds.com/newsletter/0600/index.html
+      "May" https://activeworlds.com/newsletter/0500/index.html
+      "April" https://activeworlds.com/newsletter/0400/index.html
+      "March" https://activeworlds.com/newsletter/0300/index.html
+      "February" https://activeworlds.com/newsletter/0200/index.html
+      "January" https://activeworlds.com/newsletter/0100/index.html
     endtopic
     topic "1999"	                                          
-      "December" http://activeworlds.com/newsletter/1299/index.html
-      "November" http://activeworlds.com/newsletter/1199/index.html
-      "October" http://activeworlds.com/newsletter/1099/index.html
-      "September" http://activeworlds.com/newsletter/0999/index.html
-      "August" http://activeworlds.com/newsletter/0899/index.html
-      "July" http://activeworlds.com/newsletter/0799/index.html
-      "June" http://activeworlds.com/newsletter/0699/index.html
-      "May" http://activeworlds.com/newsletter/0599/index.html
-      "April" http://activeworlds.com/newsletter/0499/index.html
-      "March" http://activeworlds.com/newsletter/0399/index.html
-      "February" http://activeworlds.com/newsletter/0299/index.html
-      "January" http://activeworlds.com/newsletter/0199/index.html
+      "December" https://activeworlds.com/newsletter/1299/index.html
+      "November" https://activeworlds.com/newsletter/1199/index.html
+      "October" https://activeworlds.com/newsletter/1099/index.html
+      "September" https://activeworlds.com/newsletter/0999/index.html
+      "August" https://activeworlds.com/newsletter/0899/index.html
+      "July" https://activeworlds.com/newsletter/0799/index.html
+      "June" https://activeworlds.com/newsletter/0699/index.html
+      "May" https://activeworlds.com/newsletter/0599/index.html
+      "April" https://activeworlds.com/newsletter/0499/index.html
+      "March" https://activeworlds.com/newsletter/0399/index.html
+      "February" https://activeworlds.com/newsletter/0299/index.html
+      "January" https://activeworlds.com/newsletter/0199/index.html
     endtopic
     topic "1998"
-      "November" http://activeworlds.com/newsletter/1198/index.html
-      "October" http://activeworlds.com/newsletter/1098/index.html
+      "November" https://activeworlds.com/newsletter/1198/index.html
+      "October" https://activeworlds.com/newsletter/1098/index.html
     endtopic
   endtopic
 endtopic
@@ -593,27 +593,27 @@ endtopic
 topic "The Ultimate Guide to Bots and the SDK"
   topic "A. Software Development Kit"
     topic "1. Introduction"
-      "Download the SDK" http://www.activeworlds.com/sdk/Download42.htm
+      "Download the SDK" https://www.activeworlds.com/sdk.php
       "God Zedle - Your first C/C++ IDE and Compiler" http://web.archive.org/web/20060813043600/http://awprogrammer.com/
       topic "Concepts"
-        "Structure of an SDK Application" http://wiki.activeworlds.com/index.php?title=SDK_Application_Structure
-        "Event Handlers" http://wiki.activeworlds.com/index.php?title=SDK_Event_Handlers
-        "Attributes" http://wiki.activeworlds.com/index.php?title=SDK_Attributes
-        "Multiple Instances" http://wiki.activeworlds.com/index.php?title=SDK_Multiple_Instances
-        "Asynchronous Operation" http://wiki.activeworlds.com/index.php?title=SDK_Asynchronous_Operation
-        "SDK FAQ" http://wiki.activeworlds.com/index.php?title=SDK_FAQ
+        "Structure of an SDK Application" https://wiki.activeworlds.com/index.php?title=SDK_Application_Structure
+        "Event Handlers" https://wiki.activeworlds.com/index.php?title=SDK_Event_Handlers
+        "Attributes" https://wiki.activeworlds.com/index.php?title=SDK_Attributes
+        "Multiple Instances" https://wiki.activeworlds.com/index.php?title=SDK_Multiple_Instances
+        "Asynchronous Operation" https://wiki.activeworlds.com/index.php?title=SDK_Asynchronous_Operation
+        "SDK FAQ" https://wiki.activeworlds.com/index.php?title=SDK_FAQ
       endtopic
       topic "Uses"
-        "Property" http://wiki.activeworlds.com/index.php?title=SDK_Property
-        "Terrain" http://wiki.activeworlds.com/index.php?title=SDK_Terrain
-        "Heads Up Display (HUD)" http://wiki.activeworlds.com/index.php?title=HUD
-        "Toolbars" http://wiki.activeworlds.com/index.php?title=Toolbars
-        "Movers" http://wiki.activeworlds.com/index.php?title=Movers
-        "Global Mode" http://wiki.activeworlds.com/index.php?title=SDK_Global_Mode
-        "World Server Administration" http://wiki.activeworlds.com/index.php?title=SDK_World_Server_Administration
+        "Property" https://wiki.activeworlds.com/index.php?title=SDK_Property
+        "Terrain" https://wiki.activeworlds.com/index.php?title=SDK_Terrain
+        "Heads Up Display (HUD)" https://wiki.activeworlds.com/index.php?title=HUD
+        "Toolbars" https://wiki.activeworlds.com/index.php?title=Toolbars
+        "Movers" https://wiki.activeworlds.com/index.php?title=Movers
+        "Global Mode" https://wiki.activeworlds.com/index.php?title=SDK_Global_Mode
+        "World Server Administration" https://wiki.activeworlds.com/index.php?title=SDK_World_Server_Administration
       endtopic
-      "Sample Program - Simple GreeterBot" http://www.activeworlds.com/sdk/sample1.htm
-      "Sample Program - Simple DJBot" http://www.activeworlds.com/sdk/sample2.htm
+      "Sample Program - Simple GreeterBot" https://wiki.activeworlds.com/index.php?title=SDK_Sample_Program_1
+      "Sample Program - Simple DJBot" https://wiki.activeworlds.com/index.php?title=SDK_Sample_Program_2
       "Sample Program - QueryBot" http://web.archive.org/web/20060813043600/http://awprogrammer.com/
     endtopic
     topic "2. Wrappers"
@@ -630,12 +630,12 @@ topic "The Ultimate Guide to Bots and the SDK"
       "VB" https://activeworlds.com/sdk/vb/
     endtopic
     topic "3. Reference"
-      "Attributes" http://wiki.activeworlds.com/index.php?title=Attribute
-      "Data Structures" http://wiki.activeworlds.com/index.php?title=List_of_SDK_Data_Structures
-      "Events" http://wiki.activeworlds.com/index.php?title=Category:SDK_Events
-      "Callbacks" http://wiki.activeworlds.com/index.php?title=Category:SDK_Callbacks
-      "Methods" http://wiki.activeworlds.com/index.php?title=Category:SDK_Methods
-      "Reason Codes" http://wiki.activeworlds.com/index.php?title=SDK_Reason_Codes
+      "Attributes" https://wiki.activeworlds.com/index.php?title=Attribute
+      "Data Structures" https://wiki.activeworlds.com/index.php?title=List_of_SDK_Data_Structures
+      "Events" https://wiki.activeworlds.com/index.php?title=Category:SDK_Events
+      "Callbacks" https://wiki.activeworlds.com/index.php?title=Category:SDK_Callbacks
+      "Methods" https://wiki.activeworlds.com/index.php?title=Category:SDK_Methods
+      "Reason Codes" https://wiki.activeworlds.com/index.php?title=SDK_Reason_Codes
     endtopic
   endtopic
   topic "--------------------------------------------------"
@@ -672,13 +672,13 @@ topic "The Ultimate Guide to Bots and the SDK"
       "Mark Randall - Eclipse Evolution" https://web.archive.org/web/20150703031131/http://www.awportals.com/products/eclipse/
     endtopic
   endtopic
-  "ActiveWiki - Bots" http://wiki.activeworlds.com/index.php?title=Bots
-  "ActiveWiki - SDK" http://wiki.activeworlds.com/index.php?title=SDK
+  "ActiveWiki - Bots" https://wiki.activeworlds.com/index.php?title=Bots
+  "ActiveWiki - SDK" https://wiki.activeworlds.com/index.php?title=SDK
   "AW Forums - Coding" http://forums.activeworlds.com/list.php?12
 endtopic
 
 topic "The Ultimate Guide to Building"
-  "Overview" http://wiki.activeworlds.com/index.php?title=Building
+  "Overview" https://wiki.activeworlds.com/index.php?title=Building
   topic "A. Learning To Build"
     topic "1. AWNewbie"
       topic "AWNewbie Tourist Pages"
@@ -695,7 +695,7 @@ topic "The Ultimate Guide to Building"
         "Active Worlds Terms & Slang" https://web.archive.org/web/20090106024752/http://www.awcommunity.org/awnewbie/terms.htm
         "How & Why to clear the AW cache" https://web.archive.org/web/20090106024752/http://www.awcommunity.org/awnewbie/aw_cache.htm
       endtopic
-      "ActiveWiki - AWNewbie" http://wiki.activeworlds.com/index.php?title=AWNewbie
+      "ActiveWiki - AWNewbie" https://wiki.activeworlds.com/index.php?title=AWNewbie
       "AWNewbie Official Website - Index" https://web.archive.org/web/20090106024752/http://www.awcommunity.org/awnewbie/
       "AWNewbie Official Website - Guardbot" https://web.archive.org/web/20090106024752/http://www.awcommunity.org/awnewbie/guardbot.htm
       "AWNewbie Official Website - WatchKeepers" https://web.archive.org/web/20090106024752/http://www.awcommunity.org/awnewbie/listofwks.htm
@@ -773,82 +773,82 @@ topic "The Ultimate Guide to Building"
       "Teleport - AWSchool Object Yard" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awschool_35.6S_40.6W_0.0a_170
     endtopic
     topic "3. Building Interface"
-      "ActiveWiki - Object Properties Dialog" http://wiki.activeworlds.com/index.php?title=Object_Properties_Dialog
-      "ActiveWiki - Object Presets" http://wiki.activeworlds.com/index.php?title=Object_Presets
-      "ActiveWiki - Object Groups (AWGs)" http://wiki.activeworlds.com/index.php?title=AWG
+      "ActiveWiki - Object Properties Dialog" https://wiki.activeworlds.com/index.php?title=Object_Properties_Dialog
+      "ActiveWiki - Object Presets" https://wiki.activeworlds.com/index.php?title=Object_Presets
+      "ActiveWiki - Object Groups (AWGs)" https://wiki.activeworlds.com/index.php?title=AWG
     endtopic
   endtopic
   topic "--------------------------------------------------"
   endtopic
   topic "B. Object Scripting (Triggers and Commands)"
-    "Overview" http://wiki.activeworlds.com/index.php?title=Object_Scripting
+    "Overview" https://wiki.activeworlds.com/index.php?title=Object_Scripting
     topic "1. Triggers"
-      "ActiveWiki - Create" http://wiki.activeworlds.com/index.php?title=Create
-      "ActiveWiki - Activate" http://wiki.activeworlds.com/index.php?title=Activate
-      "ActiveWiki - Bump" http://wiki.activeworlds.com/index.php?title=Bump
-      "ActiveWiki - Adone" http://wiki.activeworlds.com/index.php?title=Adone
-      "ActiveWiki - Adone" http://wiki.activeworlds.com/index.php?title=At
-      "ActiveWiki - Collide" http://wiki.activeworlds.com/index.php?title=Collide
-      "ActiveWiki - Sdone" http://wiki.activeworlds.com/index.php?title=Sdone
-      "ActiveWiki - Enter Zone" http://wiki.activeworlds.com/index.php?title=Enter_Zone
-      "ActiveWiki - Exit Zone" http://wiki.activeworlds.com/index.php?title=Exit_Zone
+      "ActiveWiki - Create" https://wiki.activeworlds.com/index.php?title=Create
+      "ActiveWiki - Activate" https://wiki.activeworlds.com/index.php?title=Activate
+      "ActiveWiki - Bump" https://wiki.activeworlds.com/index.php?title=Bump
+      "ActiveWiki - Adone" https://wiki.activeworlds.com/index.php?title=Adone
+      "ActiveWiki - Adone" https://wiki.activeworlds.com/index.php?title=At
+      "ActiveWiki - Collide" https://wiki.activeworlds.com/index.php?title=Collide
+      "ActiveWiki - Sdone" https://wiki.activeworlds.com/index.php?title=Sdone
+      "ActiveWiki - Enter Zone" https://wiki.activeworlds.com/index.php?title=Enter_Zone
+      "ActiveWiki - Exit Zone" https://wiki.activeworlds.com/index.php?title=Exit_Zone
     endtopic
     topic "2. Commands"
-      "ActiveWiki - Addforce" http://wiki.activeworlds.com/index.php?title=Addforce
-      "ActiveWiki - Addtorque" http://wiki.activeworlds.com/index.php?title=Addtorque
-      "ActiveWiki - Animate" http://wiki.activeworlds.com/index.php?title=Animate
-      "ActiveWiki - Astart" http://wiki.activeworlds.com/index.php?title=Astart
-      "ActiveWiki - Astop" http://wiki.activeworlds.com/index.php?title=Astop
-      "ActiveWiki - Ballsocket" http://wiki.activeworlds.com/index.php?title=Ballsocket
-      "ActiveWiki - Camera" http://wiki.activeworlds.com/index.php?title=Camera
-      "ActiveWiki - Color" http://wiki.activeworlds.com/index.php?title=Color
-      "ActiveWiki - Collider" http://wiki.activeworlds.com/index.php?title=Collider
-      "ActiveWiki - Colltag" http://wiki.activeworlds.com/index.php?title=Colltag
-      "ActiveWiki - Corona" http://wiki.activeworlds.com/index.php?title=Corona
-      "ActiveWiki - Envi" http://wiki.activeworlds.com/index.php?title=Envi
-      "ActiveWiki - Examine" http://wiki.activeworlds.com/index.php?title=Examine
-      "ActiveWiki - Frame" http://wiki.activeworlds.com/index.php?title=Frame
-      "ActiveWiki - Group" http://wiki.activeworlds.com/index.php?title=Group
-      "ActiveWiki - Hinge" http://wiki.activeworlds.com/index.php?title=Hinge
-      "ActiveWiki - Light" http://wiki.activeworlds.com/index.php?title=Light
-      "ActiveWiki - Link" http://wiki.activeworlds.com/index.php?title=Link
-      "ActiveWiki - Lock" http://wiki.activeworlds.com/index.php?title=Lock
-      "ActiveWiki - Matfx" http://wiki.activeworlds.com/index.php?title=Matfx
-      "ActiveWiki - Media" http://wiki.activeworlds.com/index.php?title=Media
-      "ActiveWiki - Midi" http://wiki.activeworlds.com/index.php?title=Midi
-      "ActiveWiki - Move" http://wiki.activeworlds.com/index.php?title=Move
-      "ActiveWiki - Name" http://wiki.activeworlds.com/index.php?title=Name
-      "ActiveWiki - Noise" http://wiki.activeworlds.com/index.php?title=Noise
-      "ActiveWiki - Opacity" http://wiki.activeworlds.com/index.php?title=Opacity_(command)
-      "ActiveWiki - Picture" http://wiki.activeworlds.com/index.php?title=Picture
-      "ActiveWiki - Rotate" http://wiki.activeworlds.com/index.php?title=Rotate
-      "ActiveWiki - Say" http://wiki.activeworlds.com/index.php?title=Say
-      "ActiveWiki - Scale" http://wiki.activeworlds.com/index.php?title=Scale
-      "ActiveWiki - Seq" http://wiki.activeworlds.com/index.php?title=Seq
-      "ActiveWiki - Shadow" http://wiki.activeworlds.com/index.php?title=Shadow
-      "ActiveWiki - Sign" http://wiki.activeworlds.com/index.php?title=Sign
-      "ActiveWiki - Solid" http://wiki.activeworlds.com/index.php?title=Solid
-      "ActiveWiki - Sound" http://wiki.activeworlds.com/index.php?title=Sound
-      "ActiveWiki - Tag" http://wiki.activeworlds.com/index.php?title=Tag
-      "ActiveWiki - Teleport" http://wiki.activeworlds.com/index.php?title=Teleport
-      "ActiveWiki - Teleportx" http://wiki.activeworlds.com/index.php?title=Teleportx
-      "ActiveWiki - Texture" http://wiki.activeworlds.com/index.php?title=Texture
-      "ActiveWiki - Timer" http://wiki.activeworlds.com/index.php?title=Timer
-      "ActiveWiki - URL" http://wiki.activeworlds.com/index.php?title=URL
-      "ActiveWiki - Velocity" http://wiki.activeworlds.com/index.php?title=Velocity
-      "ActiveWiki - Visible" http://wiki.activeworlds.com/index.php?title=Visible
-      "ActiveWiki - Warp" http://wiki.activeworlds.com/index.php?title=Warp
-      "ActiveWiki - Web" http://wiki.activeworlds.com/index.php?title=Web
+      "ActiveWiki - Addforce" https://wiki.activeworlds.com/index.php?title=Addforce
+      "ActiveWiki - Addtorque" https://wiki.activeworlds.com/index.php?title=Addtorque
+      "ActiveWiki - Animate" https://wiki.activeworlds.com/index.php?title=Animate
+      "ActiveWiki - Astart" https://wiki.activeworlds.com/index.php?title=Astart
+      "ActiveWiki - Astop" https://wiki.activeworlds.com/index.php?title=Astop
+      "ActiveWiki - Ballsocket" https://wiki.activeworlds.com/index.php?title=Ballsocket
+      "ActiveWiki - Camera" https://wiki.activeworlds.com/index.php?title=Camera
+      "ActiveWiki - Color" https://wiki.activeworlds.com/index.php?title=Color
+      "ActiveWiki - Collider" https://wiki.activeworlds.com/index.php?title=Collider
+      "ActiveWiki - Colltag" https://wiki.activeworlds.com/index.php?title=Colltag
+      "ActiveWiki - Corona" https://wiki.activeworlds.com/index.php?title=Corona
+      "ActiveWiki - Envi" https://wiki.activeworlds.com/index.php?title=Envi
+      "ActiveWiki - Examine" https://wiki.activeworlds.com/index.php?title=Examine
+      "ActiveWiki - Frame" https://wiki.activeworlds.com/index.php?title=Frame
+      "ActiveWiki - Group" https://wiki.activeworlds.com/index.php?title=Group
+      "ActiveWiki - Hinge" https://wiki.activeworlds.com/index.php?title=Hinge
+      "ActiveWiki - Light" https://wiki.activeworlds.com/index.php?title=Light
+      "ActiveWiki - Link" https://wiki.activeworlds.com/index.php?title=Link
+      "ActiveWiki - Lock" https://wiki.activeworlds.com/index.php?title=Lock
+      "ActiveWiki - Matfx" https://wiki.activeworlds.com/index.php?title=Matfx
+      "ActiveWiki - Media" https://wiki.activeworlds.com/index.php?title=Media
+      "ActiveWiki - Midi" https://wiki.activeworlds.com/index.php?title=Midi
+      "ActiveWiki - Move" https://wiki.activeworlds.com/index.php?title=Move
+      "ActiveWiki - Name" https://wiki.activeworlds.com/index.php?title=Name
+      "ActiveWiki - Noise" https://wiki.activeworlds.com/index.php?title=Noise
+      "ActiveWiki - Opacity" https://wiki.activeworlds.com/index.php?title=Opacity_(command)
+      "ActiveWiki - Picture" https://wiki.activeworlds.com/index.php?title=Picture
+      "ActiveWiki - Rotate" https://wiki.activeworlds.com/index.php?title=Rotate
+      "ActiveWiki - Say" https://wiki.activeworlds.com/index.php?title=Say
+      "ActiveWiki - Scale" https://wiki.activeworlds.com/index.php?title=Scale
+      "ActiveWiki - Seq" https://wiki.activeworlds.com/index.php?title=Seq
+      "ActiveWiki - Shadow" https://wiki.activeworlds.com/index.php?title=Shadow
+      "ActiveWiki - Sign" https://wiki.activeworlds.com/index.php?title=Sign
+      "ActiveWiki - Solid" https://wiki.activeworlds.com/index.php?title=Solid
+      "ActiveWiki - Sound" https://wiki.activeworlds.com/index.php?title=Sound
+      "ActiveWiki - Tag" https://wiki.activeworlds.com/index.php?title=Tag
+      "ActiveWiki - Teleport" https://wiki.activeworlds.com/index.php?title=Teleport
+      "ActiveWiki - Teleportx" https://wiki.activeworlds.com/index.php?title=Teleportx
+      "ActiveWiki - Texture" https://wiki.activeworlds.com/index.php?title=Texture
+      "ActiveWiki - Timer" https://wiki.activeworlds.com/index.php?title=Timer
+      "ActiveWiki - URL" https://wiki.activeworlds.com/index.php?title=URL
+      "ActiveWiki - Velocity" https://wiki.activeworlds.com/index.php?title=Velocity
+      "ActiveWiki - Visible" https://wiki.activeworlds.com/index.php?title=Visible
+      "ActiveWiki - Warp" https://wiki.activeworlds.com/index.php?title=Warp
+      "ActiveWiki - Web" https://wiki.activeworlds.com/index.php?title=Web
     endtopic
   endtopic
   topic "--------------------------------------------------"
   endtopic
   topic "C. Intermediate Building Topics"
     topic "V4 Objects"
-      "ActiveWiki - Camera Objects" http://wiki.activeworlds.com/index.php?title=Camera_Object
-      "ActiveWiki - Mover" http://wiki.activeworlds.com/index.php?title=Mover
-      "ActiveWiki - Particle Emitter" http://wiki.activeworlds.com/index.php?title=Particle_Emitter
-      "Activewiki - Zones" http://wiki.activeworlds.com/index.php?title=Zone
+      "ActiveWiki - Camera Objects" https://wiki.activeworlds.com/index.php?title=Camera_Object
+      "ActiveWiki - Mover" https://wiki.activeworlds.com/index.php?title=Mover
+      "ActiveWiki - Particle Emitter" https://wiki.activeworlds.com/index.php?title=Particle_Emitter
+      "Activewiki - Zones" https://wiki.activeworlds.com/index.php?title=Zone
       "SW City Builders Academy - Mover Essentials" http://academy.swcity.net/index.php?n=Main.MoverEssentials
       "Teleport - AWFX Tutorial/Example World" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awfx
       "Teleport - AWSchool Camera Tutorial" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awschool_81.5s_0w_180
@@ -860,15 +860,15 @@ topic "The Ultimate Guide to Building"
     topic "Physics"
       topic "Info: Active Worlds Physics are based on Newton Game Dynamics."
       endtopic
-      "ActiveWiki - Physics Overview" http://wiki.activeworlds.com/index.php?title=Physics
-      "ActiveWiki - Addforce" http://wiki.activeworlds.com/index.php?title=Addforce
-      "ActiveWiki - Addtorque" http://wiki.activeworlds.com/index.php?title=Addtorque
-      "ActiveWiki - Ballsocket" http://wiki.activeworlds.com/index.php?title=Ballsocket
-      "ActiveWiki - Collide (trigger)" http://wiki.activeworlds.com/index.php?title=Collide
-      "ActiveWiki - Collider (command)" http://wiki.activeworlds.com/index.php?title=Collider
-      "ActiveWiki - Colltag" http://wiki.activeworlds.com/index.php?title=Colltag
-      "ActiveWiki - Hinge" http://wiki.activeworlds.com/index.php?title=Hinge
-      "ActiveWiki - Velocity" http://wiki.activeworlds.com/index.php?title=Velocity
+      "ActiveWiki - Physics Overview" https://wiki.activeworlds.com/index.php?title=Physics
+      "ActiveWiki - Addforce" https://wiki.activeworlds.com/index.php?title=Addforce
+      "ActiveWiki - Addtorque" https://wiki.activeworlds.com/index.php?title=Addtorque
+      "ActiveWiki - Ballsocket" https://wiki.activeworlds.com/index.php?title=Ballsocket
+      "ActiveWiki - Collide (trigger)" https://wiki.activeworlds.com/index.php?title=Collide
+      "ActiveWiki - Collider (command)" https://wiki.activeworlds.com/index.php?title=Collider
+      "ActiveWiki - Colltag" https://wiki.activeworlds.com/index.php?title=Colltag
+      "ActiveWiki - Hinge" https://wiki.activeworlds.com/index.php?title=Hinge
+      "ActiveWiki - Velocity" https://wiki.activeworlds.com/index.php?title=Velocity
       "Teleport - AW Physics Tutorial World" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awphysics
     endtopic
     "Eep's Active Worlds pages - Building Tips" http://www.tnlc.com/eep/aw/#tips
@@ -891,7 +891,7 @@ topic "The Ultimate Guide to Building"
   endtopic
   topic "D. Advanced Building Topics"
     "Alpha Mechanics" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_8094s_1820e_0a_0
-    "ActiveWiki - .INI enhancements Guide" http://wiki.activeworlds.com/index.php?title=Guide:INI_Enhancements
+    "ActiveWiki - .INI enhancements Guide" https://wiki.activeworlds.com/index.php?title=Guide:INI_Enhancements
     "Venice3D - Animate Command" http://venice3d.net/2015create28.html
     "Venice3D - INI Tweaks" http://www.venice3d.net/2013create4.html
     "SW City Builders Academy - Astart Astop Animation" http://academy.swcity.net/index.php?n=Main.AstartAstopAnimation
@@ -907,21 +907,21 @@ topic "The Ultimate Guide to Building"
     endtopic
     topic "Any citizen may build freely in public building worlds.  Tourist buildling varies."
     endtopic
-    "Overview" http://wiki.activeworlds.com/index.php?title=Public_Building_Worlds
-    "ActiveWiki - America" http://wiki.activeworlds.com/index.php?title=America
-    "ActiveWiki - Alphaworld" http://wiki.activeworlds.com/index.php?title=Alphaworld
-    "ActiveWiki - Atlantis" http://wiki.activeworlds.com/index.php?title=Atlantis
-    "ActiveWiki - AWTeen" http://wiki.activeworlds.com/index.php?title=AWTeen
-    "ActiveWiki - COFMeta" http://wiki.activeworlds.com/index.php?title=COFMeta
-    "ActiveWiki - Colony" http://wiki.activeworlds.com/index.php?title=Colony
-    "ActiveWiki - Mars" http://wiki.activeworlds.com/index.php?title=Mars
-    "ActiveWiki - Pata" http://wiki.activeworlds.com/index.php?title=Pata
-    "ActiveWiki - Storage" http://wiki.activeworlds.com/index.php?title=Storage
-    "ActiveWiki - TheBeans" http://wiki.activeworlds.com/index.php?title=TheBeans
-    "ActiveWiki - Yellow" http://wiki.activeworlds.com/index.php?title=Yellow
-    "ActiveWiki - WildAW" http://wiki.activeworlds.com/index.php?title=WildAW
-    "ActiveWiki - WildWest" http://wiki.activeworlds.com/index.php?title=WildWest
-    "ActiveWiki - Winter" http://wiki.activeworlds.com/index.php?title=Winter
+    "Overview" https://wiki.activeworlds.com/index.php?title=Public_Building_Worlds
+    "ActiveWiki - America" https://wiki.activeworlds.com/index.php?title=America
+    "ActiveWiki - Alphaworld" https://wiki.activeworlds.com/index.php?title=Alphaworld
+    "ActiveWiki - Atlantis" https://wiki.activeworlds.com/index.php?title=Atlantis
+    "ActiveWiki - AWTeen" https://wiki.activeworlds.com/index.php?title=AWTeen
+    "ActiveWiki - COFMeta" https://wiki.activeworlds.com/index.php?title=COFMeta
+    "ActiveWiki - Colony" https://wiki.activeworlds.com/index.php?title=Colony
+    "ActiveWiki - Mars" https://wiki.activeworlds.com/index.php?title=Mars
+    "ActiveWiki - Pata" https://wiki.activeworlds.com/index.php?title=Pata
+    "ActiveWiki - Storage" https://wiki.activeworlds.com/index.php?title=Storage
+    "ActiveWiki - TheBeans" https://wiki.activeworlds.com/index.php?title=TheBeans
+    "ActiveWiki - Yellow" https://wiki.activeworlds.com/index.php?title=Yellow
+    "ActiveWiki - WildAW" https://wiki.activeworlds.com/index.php?title=WildAW
+    "ActiveWiki - WildWest" https://wiki.activeworlds.com/index.php?title=WildWest
+    "ActiveWiki - Winter" https://wiki.activeworlds.com/index.php?title=Winter
   endtopic
 endtopic
 
@@ -1022,50 +1022,12 @@ topic "The Ultimate Guide to Activities and Gaming"
       "Teleport - Trivia" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awgames_33s_65w
       "Teleport - WarShip" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awgames_15n_75e 
     endtopic
-    topic "Bingo Worlds"
-      topic "AWBingo is held every Wednesday at 5pm VRT"
-      endtopic
-    "AWBingo Instructions" http://www.activeworlds.com/games/
-    "Teleport - AWBingo1 (Original Bingo World)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awbingo1_0n_0e
-    "Teleport - AWBingo2 (Tropical Paradise)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awbingo2_0n_0e
-    "Teleport - AWBingo3 (Baro's Asylum)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awbingo3_0n_0e
-    "Teleport - AWBingo4 (Stacee's Picnic Party)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awbingo4_0n_0e
-    "Teleport - AWBingo5 (Brock's Bingo of the Gods)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awbingo5_0n_0e
-    "Teleport - AWBingo6 (Queen's Bingo Circus)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awbingo6_0n_0e
-    "Teleport - AWBingoX (The Final Fallback)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awbingoX_0n_0e
-      topic "CitBingo is held every Friday at 9pm VRT"
-      endtopic
-    "CitBingo Homepage" http://host.activeworlds.com/citbingo/
-    "Teleport - CitBingo" http://objects.activeworlds.com/cgi-bin/teleport.cgi?citbingo_0n_0e
-      topic "Tourist Bingo is held every Saturday at 6:30pm VRT!"
-      endtopic
-    "Teleport - Tourist Bingo" http://objects.activeworlds.com/cgi-bin/teleport.cgi?bingotrs_0n_0e
-    endtopic
     topic "Board Game Worlds"
       "Teleport - AWCheckers" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awchekrs_0n_0e
       "Teleport - AWChess" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awchekrs_0n_0e
       "Teleport - AWSpades" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awspades_0n_0e 
     endtopic
-    topic "DigitalPixel Events"
-      topic "Who Wants To Be A Millionaire?"
-        topic "Millionaire takes place on the last Friday of every month @ 7pm VRT."
-        endtopic
-        "ActiveWiki - Millionaire" http://wiki.activeworlds.com/index.php?title=Millionaire
-        "DigitalPixel - Millionaire Rules" http://millionaire.dpxl.in/rules.php
-        "Teleport - Millionaire Studio" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1977s_2688e_4a_180
-      endtopic
-      "ActiveWiki - DigitalPixel" http://wiki.activeworlds.com/index.php?title=DigitalPixel
-      "AW Forums - DigitalPixel Events" http://forums.activeworlds.com/forumdisplay.php?f=131
-      "AW Forums - Prize and Currency Information" http://forums.activeworlds.com/showthread.php?t=14035
-      "Official Webpage" http://web.dpxl.in/
-    endtopic
     topic "Role Playing Games"
-      topic "AD&DRPG" (Tourist Enabled)
-        "Teleport - AD&DRPG World" http://objects.activeworlds.com/cgi-bin/teleport.cgi?ad&drpg_0n_0e
-        "Overview" http://mercuryonlinegames.com/index.php/The_4th_Age_Info
-        "Players Tutorial" http://mercuryonlinegames.com/index.php/The_4th_Age_Tutorial
-        "Forums" http://mercuryonlinegames.com/forums/
-      endtopic
       topic "AWMyths" (Tourist Enabled)
         "Teleport - AWMyths World" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awmyths_0n_0e
         "AWMyths Homepage" http://awmyths.com/
@@ -1088,16 +1050,6 @@ topic "The Ultimate Guide to Activities and Gaming"
         "SW City Community Forum" https://www.swcity.net/yabbse/index.php?board=1.0
         "Switter Feed" https://www.swcity.net/www/interactive-switter.php
       endtopic
-      topic "VR Farm"
-        "Teleport - VR Farm" http://objects.activeworlds.com/cgi-bin/teleport.cgi?vr_farm
-        "ActiveWiki - VR Farm" http://wiki.activeworlds.com/index.php?title=VR_Farm
-        "Forums" http://forums.mercuryonlinegames.com/category/vr_farm_gamefest01.html
-      endtopic
-    endtopic
-    topic "Trivia Challenge (inactive)"
-      topic "Mark Randall hosts Trivia bi-weekly on Sunday Nights @ 6pm VRT."
-      endtopic
-      "Teleport - AWPortal" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awportal
     endtopic
     topic "Virtual Game Festival 2010 Entries"
     topic "Info: All games in this topic were recognized in the Virtual Games Festival."
@@ -1134,13 +1086,14 @@ topic "The Ultimate Guide to Owning a World"
     endtopic
     topic "More information can be found in the following ActiveWiki Article."
     endtopic
-    "ActiveWiki - World" http://wiki.activeworlds.com/index.php?title=World
-    "ActiveWiki - World Hosting" http://wiki.activeworlds.com/index.php?title=World#World_Hosting
-    "Mauz Guide to Running a World" http://mauz.info/worldrunning.html
+    "ActiveWiki - World" https://wiki.activeworlds.com/index.php?title=World
+    "ActiveWiki - World Hosting" https://wiki.activeworlds.com/index.php?title=World#World_Hosting
+    "Mauz Guide to Running a World" https://web.archive.org/web/20090219210638/http://mauz.info/worldrunning.html
     "Teleport - AWSchool - World Running" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awschool_20.80S_79.96E_0.40a_270
-    "(Buying a World) AWI World Hosting" http://activeworlds.com/products/hosting.asp
-    "(Buying a World) Pricing" http://www.activeworlds.com/products/worlds_pricing.asp
-    "(Buying a World) Purchase" https://www.activeworlds.com/ssl/buyworld/
+    "(Buying a World) Community World Hosting" https://www.activeworlds.com/pricing.php
+    "(Buying a World) Pricing" https://www.activeworlds.com/pricing.php
+    "(Buying a World) Purchase" https://www.activeworlds.com/ssl/forms/view.php?id=13208
+    "Activeworlds Support Inquiry" https://www.activeworlds.com/ssl/forms/view.php?id=16037
   endtopic
   topic "--------------------------------------------------"
   endtopic
@@ -1156,25 +1109,23 @@ topic "The Ultimate Guide to Owning a World"
       "JTech" http://www.jtechwebsystems.com/services-software.shtml
       "VR Hosting" http://www.vr-hosting.net/
       endtopic
-      "ActiveWiki - World Hosting" http://wiki.activeworlds.com/index.php?title=World#World_Hosting
-      "(Buying a World) AWI World Hosting" http://activeworlds.com/products/hosting.asp
-      "Download the World Server" http://activeworlds.com/products/download.asp
+      "ActiveWiki - World Hosting" https://wiki.activeworlds.com/index.php?title=World#World_Hosting
+      "(Buying a World) AWI World Hosting" https://activeworlds.com/products/hosting.asp
+      "Download the World Server" https://activeworlds.com/products/download.asp
     endtopic
     topic "Purchasing Reference"
-      "Purchase a World" https://www.activeworlds.com/ssl/buyworld/
-      "Renew an Expired World" https://www.activeworlds.com/ssl/renewworld/
-      "Enable Tourists" https://www.activeworlds.com/ssl/enableTourists/
-      "FTP Hosting Services" http://activeworlds.com/products/ftp.asp
-      "Simultaneous User Increase" https://www.activeworlds.com/ssl/userIncrease/
-      "Voice Over IP" http://www.activeworlds.com/products/voip.asp
+      "(Buying a World) Community World Hosting" https://www.activeworlds.com/pricing.php
+      "(Buying a World) Pricing" https://www.activeworlds.com/pricing.php
+      "(Buying a World) Purchase" https://www.activeworlds.com/ssl/forms/view.php?id=13208
+      "Activeworlds Support Inquiry" https://www.activeworlds.com/ssl/forms/view.php?id=16037
     endtopic
     topic "Important Topics"
-      "ActiveWiki - Atdump" http://wiki.activeworlds.com/index.php?title=Atdump
-      "ActiveWiki - Caretaker" http://wiki.activeworlds.com/index.php?title=Caretakers
-      "ActiveWiki - Propdump" http://wiki.activeworlds.com/index.php?title=Propdump
-      "ActiveWiki - Registry" http://wiki.activeworlds.com/index.php?title=Registry
-      "ActiveWiki - World Features" http://wiki.activeworlds.com/index.php?title=World_features
-      "ACtiveWiki - World Rights" http://wiki.activeworlds.com/index.php?title=World_rights
+      "ActiveWiki - Atdump" https://wiki.activeworlds.com/index.php?title=Atdump
+      "ActiveWiki - Caretaker" https://wiki.activeworlds.com/index.php?title=Caretakers
+      "ActiveWiki - Propdump" https://wiki.activeworlds.com/index.php?title=Propdump
+      "ActiveWiki - Registry" https://wiki.activeworlds.com/index.php?title=Registry
+      "ActiveWiki - World Features" https://wiki.activeworlds.com/index.php?title=World_features
+      "ACtiveWiki - World Rights" https://wiki.activeworlds.com/index.php?title=World_rights
     endtopic
     topic "Utilities"
       "Accutrans" http://www.micromouse.ca/
@@ -1184,10 +1135,10 @@ topic "The Ultimate Guide to Owning a World"
       "Mapview" http://www.andras.net/tools.html#mapview
       "Reggen" http://www.andras.net/tools.html#reggen
     endtopic
-    "ActiveWiki - World Administration (a *must* read!)" http://wiki.activeworlds.com/index.php?title=World_Administration
-    "ActiveWiki - World Server" http://wiki.activeworlds.com/index.php?title=World_Server
-    "ActiveWiki - World Server Administration Tool" http://wiki.activeworlds.com/index.php?title=World_Server_Administration_Tool
-    "Mauz Guide to Running a World" http://mauz.info/worldrunning.html
+    "ActiveWiki - World Administration (a *must* read!)" https://wiki.activeworlds.com/index.php?title=World_Administration
+    "ActiveWiki - World Server" https://wiki.activeworlds.com/index.php?title=World_Server
+    "ActiveWiki - World Server Administration Tool" https://wiki.activeworlds.com/index.php?title=World_Server_Administration_Tool
+    "Mauz Guide to Running a World" https://web.archive.org/web/20090219210638/http://mauz.info/worldrunning.html
   endtopic
   topic "--------------------------------------------------"
   endtopic
@@ -1196,22 +1147,22 @@ topic "The Ultimate Guide to Owning a World"
     endtopic
     topic "This section explains OPs and offers free downloads for users to begin organizing their OP."
     endtopic
-    "ActiveWiki - Object Path" http://wiki.activeworlds.com/index.php?title=Object_path
+    "ActiveWiki - Object Path" https://wiki.activeworlds.com/index.php?title=Object_path
     topic "Alphaworld Art & Sounds (Free)"
-      "Models" http://activeworlds.com/downloads/aw/models.zip
-      "Textures" http://activeworlds.com/downloads/aw/textures.zip
-      "Avatars" http://activeworlds.com/downloads/aw/avatars.zip
-      "Avatar Sequences" http://activeworlds.com/downloads/aw/seqs.zip
-      "Sounds" http://activeworlds.com/downloads/aw/sounds.zip
-      "Registry" http://activeworlds.com/downloads/aw/awregistry.zip
+      "Models" https://activeworlds.com/downloads/aw/models.zip
+      "Textures" https://activeworlds.com/downloads/aw/textures.zip
+      "Avatars" https://activeworlds.com/downloads/aw/avatars.zip
+      "Avatar Sequences" https://activeworlds.com/downloads/aw/seqs.zip
+      "Sounds" https://activeworlds.com/downloads/aw/sounds.zip
+      "Registry" https://activeworlds.com/downloads/aw/awregistry.zip
     endtopic
     topic "Mars Art & Sounds (Free)"
-      "Models" http://activeworlds.com/downloads/mars/marsmodels.zip
-      "Textures" http://activeworlds.com/downloads/mars/marstextur.zip
-      "Avatars" http://activeworlds.com/downloads/mars/marsavs.zip
-      "Avatar Sequences" http://activeworlds.com/downloads/mars/marsseqs.zip
-      "Sounds" http://activeworlds.com/downloads/mars/marssounds.zip
-      "Registry" http://activeworlds.com/downloads/mars/marsregistry.zip
+      "Models" https://activeworlds.com/downloads/mars/marsmodels.zip
+      "Textures" https://activeworlds.com/downloads/mars/marstextur.zip
+      "Avatars" https://activeworlds.com/downloads/mars/marsavs.zip
+      "Avatar Sequences" https://activeworlds.com/downloads/mars/marsseqs.zip
+      "Sounds" https://activeworlds.com/downloads/mars/marssounds.zip
+      "Registry" https://activeworlds.com/downloads/mars/marsregistry.zip
     endtopic
     topic "Megapath Art & Sounds (Free)"
       "Models" http://host.activeworlds.com/megapath/models.zip
@@ -1295,7 +1246,7 @@ topic "Ultimate Teleports List"
         topic "Information: Founded in 2001.  University build is used for teaching."
         endtopic
         "Website: anomiaaw.net/" http://anomiaaw.net/
-        "Wiki" http://wiki.activeworlds.com/index.php?title=Anomia
+        "Wiki" https://wiki.activeworlds.com/index.php?title=Anomia
         "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_13833s_6050e_0.1a_0
         "BUILDING AREA: Beacon Hill" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_13600S_6037E
         "BUILDING AREA: Downtown Anomia" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_13696S 6014E
@@ -1308,7 +1259,7 @@ topic "Ultimate Teleports List"
         topic "Information: Founded in 2000 by SirQus. Sports over 400 builders."
         endtopic
         "Blog" https://horizoncity.blogspot.com/
-        "Wiki" http://wiki.activeworlds.com/index.php?title=Horizon_City
+        "Wiki" https://wiki.activeworlds.com/index.php?title=Horizon_City
         "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_7000s_14000e_0a_0
         "Arewen Residence" http://objects.activeworlds.com/cgi-bin/teleport.cgi?AW_6748.74S_14183.17E_2.16a_307
         "Belle Van Zuylen Tower" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_7030s_14000e_0a_0
@@ -1322,7 +1273,7 @@ topic "Ultimate Teleports List"
         topic "Information: Founded in 1999.  Hosts Marianes Community Awards."
         endtopic
         "Website" http://www.pippin2.com/Pippinville.html
-        "Wiki" http://wiki.activeworlds.com/index.php?title=Pippinville
+        "Wiki" https://wiki.activeworlds.com/index.php?title=Pippinville
         "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1952s_2568e_0a_270
         "Hall of Fame" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_1917.8s_2474.88e_1a_0
         "Large Maze" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_3534.62N_16161.25E_0.0a_70
@@ -1356,7 +1307,7 @@ topic "Ultimate Teleports List"
           topic "Rising Glen Retreat (Wilderness Themed)"
             topic "Information: A large, wilderness-themed neighborhood. Managed by Hyper Anthony.  Lots available for each noted skill level."
             endtopic
-            "ActiveWiki - Rising Glen Retreat" http://wiki.activeworlds.com/index.php?title=Rising_Glen_Retreat
+            "ActiveWiki - Rising Glen Retreat" https://wiki.activeworlds.com/index.php?title=Rising_Glen_Retreat
             "Rising Glen Real Estate Office" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2640.599s_4168.086e_4.58a_2
             "Rising Glen Retreat - Shelter 1" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2653.09s_4134.067e_4.46a_164
             "Rising Glen Retreat - Shelter 2" http://objects.activeworlds.com/cgi-bin/teleport.cgi?aw_2689.124s_4171.737e_7.05a_345
@@ -1801,7 +1752,7 @@ topic "Ultimate Teleports List"
     topic "Information: A popular public building world. Currently archived."
     endtopic
     "JAM Guides" http://awteen.us/teams/just-ask-me-guides/
-    "Wiki" http://wiki.activeworlds.com/index.php?title=Awteen
+    "Wiki" https://wiki.activeworlds.com/index.php?title=Awteen
     "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_0n_0e
     topic "Builds"
       "Chemical Factory" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2330.201n_406.979w_19.7a
@@ -1832,8 +1783,7 @@ topic "Ultimate Teleports List"
         endtopic
         topic "Information: An up and coming town founded on July 11, 2009."
         endtopic
-        "Website" http://www.huntingtoncityaw.webs.com/
-        "Wiki" http://wiki.activeworlds.com/index.php?title=Huntington
+        "Wiki" https://wiki.activeworlds.com/index.php?title=Huntington
         "Facebook" http://www.facebook.com/pages/Huntington-City-AW/358635013791
         "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1589.17S_365.90E_0.01a_360
         "City Hall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_1563.741s_375.389e_0.2a_90
@@ -1841,8 +1791,8 @@ topic "Ultimate Teleports List"
       topic "Moonlight Heights"
         topic "Mayor: AlexTheMartian"
         endtopic
-        "Website" http://www.mheights.com/
-        "Wiki" http://wiki.activeworlds.com/index.php?title=Moonlight_Heights
+        "Website" https://web.archive.org/web/20100517023849/http://www.mheights.com/
+        "Wiki" https://wiki.activeworlds.com/index.php?title=Moonlight_Heights
         "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_520s_500w_0.024a_0
         "Digigurls House" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_641.104s_463.459w_0.83a_40
         "Martian Stadium (CY)" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_517S_415.5W_270
@@ -1853,7 +1803,7 @@ topic "Ultimate Teleports List"
         endtopic
         topic "Info: Currently defunct.  Achieved largest city in AWTeen. Founded in 2004.  Succeeded by Cypress Hollow."
         endtopic
-        "Wiki" http://wiki.activeworlds.com/index.php?title=New_Arklay_City
+        "Wiki" https://wiki.activeworlds.com/index.php?title=New_Arklay_City
         "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2850s_1400e_0a_0
         "City Hall" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_2961.5S_1370E_5.7a_180
         "Flushing Oaks Tourist community" http://objects.activeworlds.com/cgi-bin/teleport.cgi?awteen_3838S_1380E
@@ -1869,13 +1819,13 @@ topic "Ultimate Teleports List"
   topic "Yellow"
     topic "Info: Founded in 1995 by COF.  Reformed in 2007 by Digigurl and Squailboont."
     endtopic
-    "World Bot - Ranger Rick" http://squailboont.info/apollo/help
-    "Wiki" http://wiki.activeworlds.com/index.php?title=Yellow
+    "World Bot - Ranger Rick" https://squailboont.info/apollo/help
+    "Wiki" https://wiki.activeworlds.com/index.php?title=Yellow
     "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Yellow
     "Maple Valley Building Area" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Yellow_509.58S_1672.57E_0.04a
     "Old GZ Area" http://objects.activeworlds.com/cgi-bin/teleport.cgi?yellow_0n_0e
     "World Map" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Yellow_600n_800e
-    "Yellow Gazette (monthly newsletter)" http://activeworlds.com/newsletter/yellow/
+    "Yellow Gazette (monthly newsletter)" https://activeworlds.com/newsletter/yellow/
     topic "Builds"
       "Apookas Old Winter Mountain" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Yellow_24S_1621E
       "Apookas Pax Sanctuary" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Yellow_95.96S_1581.52E_0.32a_82
@@ -1902,7 +1852,7 @@ topic "Ultimate Teleports List"
   endtopic
   topic "Winter"
     "Ground Zero" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Winter
-    "Wiki" http://wiki.activeworlds.com/index.php?title=Winter
+    "Wiki" https://wiki.activeworlds.com/index.php?title=Winter
     "Resource Yard" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Winter_702s_700w
     "Winter Wonderland Building Area" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Winter_1500N_6.0W_.01a_0
     topic "Builds"
@@ -1914,7 +1864,7 @@ topic "Ultimate Teleports List"
   topic "--------------------------------------------------"
   endtopic
   topic "Other Public Building Worlds"
-    "Overview" http://wiki.activeworlds.com/index.php?title=Public_Building_Worlds
+    "Overview" https://wiki.activeworlds.com/index.php?title=Public_Building_Worlds
     "America" http://objects.activeworlds.com/cgi-bin/teleport.cgi?america
     "Atlantis" http://objects.activeworlds.com/cgi-bin/teleport.cgi?Atlantis
     "COFMeta" http://objects.activeworlds.com/cgi-bin/teleport.cgi?COFMeta
